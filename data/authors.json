@@ -1,0 +1,2017 @@
+[
+    {
+        "id": 29864001,
+        "uuid": "lekumberri",
+        "name": "Alejandro Guirao Rodríguez",
+        "avatar": "https://storage.googleapis.com/k-avatars/29864001-5460d7b4",
+        "description": "Pythonista, DevOps engineer, Linux-lover, electronics tinkerer, ham radio operator, eurogame player and geocacher. https://lekum.org",
+        "feedback": {
+            "ratingAverage": 4.93,
+            "entriesCount": 14
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 31044001,
+        "uuid": "rauljimenezortega",
+        "name": "Raul Jiménez Ortega - @hhkaos",
+        "avatar": "https://storage.googleapis.com/k-avatars/31044001-6c004321",
+        "description": "Desarrollador web desde los 15 años (1999), en los últimos años he trabajado en varias startups españolas además de haber podido trabajar brevemente en 500 Startups (Silicon Valley).\n\nActualmente trabajo en [Esri](http://developers.arcgis.com/), soy padre de un futuro developer de pocos meses ;P, dinamizo [geodevelopers.org](http://www.geodevelopers.org/), intento terminar el libro [cursohtml5desdecero.com](http://cursohtml5desdecero.com/) y alguna cosilla más.\n\n[Web personal](http://www.rauljimenez.info) | [GitHub](http://www.github.com/hhkaos) | [LinkedIn](http://es.linkedin.com/in/jimenezortegaraul) | [Twitter](http://www.twitter.com/hhkaos)",
+        "feedback": {
+            "ratingAverage": 4.62,
+            "entriesCount": 40
+        },
+        "twitterAccount": "hhkaos",
+        "gender": "Male"
+    },
+    {
+        "id": 108704003,
+        "uuid": "dkapanidis",
+        "name": "Dimitri Kapanidis",
+        "avatar": "https://storage.googleapis.com/k-avatars/108704003-7009195e",
+        "description": "Dimitris is Docker Captain, Google Developer Expert, software engineer, SQA evangelist, organizer of the Docker Barcelona Meetup, Kubernetes Barcelona Meetup and founder of Harbur. He has been for a decade the ultimate responsible of the software quality of e-voting solutions with governments across all continents, a working environment that requires pristine-quality. Now in Harbur he helps enterprise tech companies modernize their development processes and infrastructures in order to embrace containers as first-class citizens on their ecosystem.\nHe loves automation, Continuous Delivery, and anything that boost the development-lifecycle and make developer's life easier. He also loves noodles.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 24014004,
+        "uuid": "javierramirezgomara",
+        "name": "javier ramirez",
+        "avatar": "https://storage.googleapis.com/k-avatars/24014004-9289dd20",
+        "feedback": {
+            "ratingAverage": 4.62,
+            "entriesCount": 113
+        },
+        "twitterAccount": "supercoco9",
+        "gender": "Male"
+    },
+    {
+        "id": 79204001,
+        "uuid": "danilat",
+        "name": "Dani Latorre",
+        "avatar": "https://storage.googleapis.com/k-avatars/79204001-f2bd5233",
+        "description": "Llevo una docena de años dedicado al desarrollo de software. Ahora trabajo haciendo proyectos para terceros con varios amigos en Coding Stones y soy responsable de la parte técnica de OutreachTool. He pasado por consultoras, mi propia startup y mucho tiempo como freelance y contractor. Además colaboro en comunidades locales como CachiruloValley o AgileAragón y he mentorizado a desarrolladores a través de Senpai Devs. (@dani_latorre)",
+        "feedback": {
+            "ratingAverage": 4.15,
+            "entriesCount": 13
+        },
+        "twitterAccount": "dani_latorre",
+        "gender": "Male"
+    },
+    {
+        "id": 93974001,
+        "uuid": "agualis",
+        "name": "Alberto Gualis",
+        "avatar": "https://storage.googleapis.com/k-avatars/93974001-4f6e488c",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "gualison",
+        "gender": "Male"
+    },
+    {
+        "id": 81174001,
+        "uuid": "victorsb",
+        "name": "Victor Sánchez",
+        "avatar": "https://storage.googleapis.com/k-avatars/81174001-80690ce2",
+        "description": "Víctor es un desarrollador, conferenciante eventual y emprendedor. Co-fundador de SyncRTC (MashMeTV & MashMeIO) un producto de videocolaboración que da servicio a más de dos millones de usuarios en 72 países. Su obsesión es el HTML5 y la arquitectura web de cliente. Durante los últimos años Víctor ha estado organizando eventos y conferencias para peques y mayores cómo HTML5vsAndroid, Hack4Good Spain, HTML5Party, GDGKids, etc… con el objetivo de extender el conocimiento de las disciplinas STEM. Nombrado Google Developer Expert en HTML5.\n",
+        "feedback": {
+            "ratingAverage": 3.13,
+            "entriesCount": 38
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 34384001,
+        "uuid": "flipper83",
+        "name": "Jorge J. “flipper83” Barroso",
+        "avatar": "https://storage.googleapis.com/k-avatars/34384001-81873091",
+        "feedback": {
+            "ratingAverage": 4.64,
+            "entriesCount": 180
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 49094001,
+        "uuid": "isabelcabezas",
+        "name": "Isabel Cabezas",
+        "avatar": "https://storage.googleapis.com/k-avatars/49094001-4d54c74b",
+        "description": "Technical Evangelist en Microsoft. Mi trabajo consiste en aprender y compartir el conocimiento. Y no sólo la teoría: me gustan las demos y que el público disfrute con ellas. Buscando contínuamente el efecto WOW!  Trato con desarrolladores de todo tipo: principantes, estudiantes, profesionales, en comunidades... ",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "isabelcabezasm",
+        "gender": "Female"
+    },
+    {
+        "id": 102044001,
+        "uuid": "julietsvq",
+        "name": "Juliet Moreiro Bockhop",
+        "avatar": "https://storage.googleapis.com/k-avatars/102044001-3619a2ba",
+        "description": "Support Engineer en Microsoft, le gusta aprovechar su tiempo libre para estar al día en nuevas tecnologías y tiene especial afición por sacarle partido a todo cacharrito programable que se les cruce incluyendo luces, smart home devices, dispositivos inteligentes controlados por voz y robots con mal genio.",
+        "feedback": {
+            "ratingAverage": 3.73,
+            "entriesCount": 15
+        },
+        "twitterAccount": "julietsvq",
+        "gender": "Female"
+    },
+    {
+        "id": 34384001,
+        "uuid": "flipper83",
+        "name": "Jorge J. “flipper83” Barroso",
+        "avatar": "https://storage.googleapis.com/k-avatars/34384001-81873091",
+        "description": "Jorge Barroso es Android expert en Karumi y Google Developer Expert en Android. Con más de diez años a sus espaldas en el mundo del desarrollo movil aún le siguien quedando ganas de aprender y cacharrear con todas las tecnologías que caen es sus manos.",
+        "feedback": {
+            "ratingAverage": 4.64,
+            "entriesCount": 180
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 100184001,
+        "uuid": "juanjo2",
+        "name": "Juanjo Montiel",
+        "avatar": "https://storage.googleapis.com/k-avatars/100184001-2d1e5044",
+        "description": "kastwey",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 105464003,
+        "uuid": "acarmona",
+        "name": "Ana Carmona",
+        "avatar": "https://storage.googleapis.com/k-avatars/105464003-91d1d92e",
+        "description": "Entusiasta del código y las bases de datos. Lleva trabajando en el mundo .Net desde hace más de 10 años, del cual disfruta día a día. Cada reto o problema es una gran oportunidad de aprender algo nuevo o de idear una nueva solución. Su carrera le ha llevado a tratar con código legado en la mayor parte del tiempo, del cual disfruta refactorizando y dándole una segunda oportunidad.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Female"
+    },
+    {
+        "id": 109554004,
+        "uuid": "tsegismont",
+        "name": "Thomas Segismont",
+        "avatar": "https://storage.googleapis.com/k-avatars/109554004-0fb19c8f",
+        "description": "Thomas Segismont works in the Vert.x core team, especially on the clustering, monitoring and reactive programming parts. At Red Hat since 2012, he lives in Marseille, France with his wife and four kids.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "tsegismont",
+        "gender": "Male"
+    },
+    {
+        "id": 103854002,
+        "uuid": "truyerskenneth",
+        "name": "Kenneth Truyers",
+        "avatar": "https://storage.googleapis.com/k-avatars/103854002-3ca80fb5",
+        "description": "I'm a Belgian .NET developer and Microsoft MVP currently living in Spain and working in London. I develop mostly server-side applications but also do front-end development using Angular and Aurelia.\n\nI write a blog at www.kenneth-truyers.net about all things development, usually focused around continuous delivery and software development best practices. I published a course on Pluralsight around continuous deployment for .NET applications\n\nI tweet from @kennethtruyers",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 65046,
+        "uuid": "gustavo-marin",
+        "name": "Gustavo Marin",
+        "avatar": "https://storage.googleapis.com/k-avatars/65046-e3a2f136",
+        "description": "Soy un apasionado de las tecnologías web y experto desarrollador JavaScript por muchos años pasando por casi todos los ámbitos posibles donde se puede aplicar JavaScript.\n\nHe pasado por grandes grupos empresariales, pero ahora en Intelygenz he encontrado el balance justo entre proyectos muy grandes y equipos muy ágiles. \n\nTwitter: @guumaster​\n",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 103864001,
+        "uuid": "emanuela",
+        "name": "Emanuela Damiani",
+        "avatar": "https://storage.googleapis.com/k-avatars/103864001-a7f38c4c",
+        "description": "Emanuela Damiani works every day for the best browser experience at Firefox. She fell in love with the Web at a young age, and since then she has never stopped studying and learning it. In her career, she helped companies and organisation to innovate through design practices. Nowadays Emanuela is exploring design systems for complex, mutable environments, aim to enable everyone to understand and use design. In her spare time, she likes to watch kitten videos, and she never says no to a good cocktail. ",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Female"
+    },
+    {
+        "id": 70004001,
+        "uuid": "loaisa",
+        "name": "Alvaro García Loaisa",
+        "avatar": "https://storage.googleapis.com/k-avatars/70004001-62a4d873",
+        "description": "Soy un informático, apasionado por los temas tecnológicos, sobre todo los temas relacionados con la programación, su excelencia y las metodologías ágiles. Me encanta aprender y practicar con lenguajes de programación, juntándolos con el uso de patrones de desarrollo y buenas prácticas en estos entornos. Intentando aprender, leer, conocer, escuchar, probar y difundir todo lo posible. Learning by doing!!\n\nTwitter: @aloaisa \nBlog: http://pensamientosdeotromas.com\nVicepresidente de http://www.cyliconvalley.es/\nAsiduo en http://agilecyl.org",
+        "feedback": {
+            "ratingAverage": 3.84,
+            "entriesCount": 45
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 5641397264711680,
+        "uuid": "nacho",
+        "name": "Ignacio Sánchez Ginés",
+        "avatar": "https://storage.googleapis.com/k-avatars/5641397264711680-a6f9f7aa",
+        "description": "Ignacio Sánchez Ginés (@drhelius) es Líder Técnico en la Comunidad DevOps de atSistemas desde hace 2 años.\n\nEmpezó su carrera en el mundo de los videojuegos, diseñando arquitecturas multihilo y comprobando de primera mano la importancia del ciclo de vida en el desarrollo de software.\n\nDurante una etapa de transición en el Departamento de Defensa de Indra, ayudó a la Armada Española en la arquitectura de simulaciones navales.\n\nPosteriormente formó parte del banco francés BNP Paribas, donde fue el responsable de Arquitectura Técnica, liderando la transformación tecnológica de esta compañía en España durante 7 años.",
+        "feedback": {
+            "ratingAverage": 4.5,
+            "entriesCount": 66
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 35644001,
+        "uuid": "borjagodoygago",
+        "name": "Borja Godoy Gago",
+        "avatar": "https://storage.googleapis.com/k-avatars/35644001-f1c77737",
+        "description": "Front Lead en Barrabase meaning y organizador de GDG Spain y Open source weekend y profesor en Fictizia. \n",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 109494002,
+        "uuid": "simonroses",
+        "name": "Simon Roses Femerling",
+        "avatar": "https://storage.googleapis.com/k-avatars/109494002-e96e3b4f",
+        "description": "Licenciado en Informática por Suffolk University (Boston), Postgrado en E-Commerce, Harvard University (Boston) y Executive MBA, Instituto de Empresa (IE, Madrid).\n\nLa actualidad es el CEO de VULNEX.  Anteriormente formó parte de Microsoft, PriceWaterhouseCoopers y @Stake.\n\nCreador y colaborador en varios proyectos de código abierto de seguridad como OWASP Pantera y LibExploit, además de publicar avisos en seguridad de conocidos productos. \n\nPonente habitual en eventos del sector de seguridad incluyendo BlackHat, RSA, OWASP, Mundo Hacker Day, DeepSec, Source y Technets de seguridad de Microsoft.\n\nCISSP, CEH y CSSLP\n\nBlog: www.simonroses.com\nTwitter: @simonroses\nYoutube: https://www.youtube.com/channel/UC8KUXxTSEdWfpFzAydjEzyQ",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "simonroses",
+        "gender": "Male"
+    },
+    {
+        "id": 65994001,
+        "uuid": "fzberlinches",
+        "name": "Felix Zapata Berlinches",
+        "avatar": "https://storage.googleapis.com/k-avatars/65994001-5b938aa6",
+        "description": "Desde 2001 involucrado en el desarrollo web, y desde el 2004 con la accesibilidad web cuando cayeron en mis manos las WCAG 1.0. \n\nCoorganizo varios meetups locales como Accesibilidad Spain, Angular Madrid y Polymer Madrid. \n\nActualmente trabajo en SyncRTC como desarrollador senior Front End. \n\nAerotranstornado: piloto virtual y controlador aéreo virtual en la red VATSIM.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "felixzapata",
+        "gender": "Male"
+    },
+    {
+        "id": 96224001,
+        "uuid": "1joroji",
+        "name": "Jon Rojí",
+        "avatar": "https://storage.googleapis.com/k-avatars/96224001-5d2564e6",
+        "description": "Frontend Developer desde hace unos cuantos años, formador desde hace poco y curioso de nacimiento. Crítico con el código del día anterior, potencia las relaciones de amor estricto entre desarrollador y código. Aprovecha su tiempo libre para seguir trasteando con todo lo que pilla.",
+        "feedback": {
+            "ratingAverage": 4.32,
+            "entriesCount": 19
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 111484002,
+        "uuid": "lgomez",
+        "name": "Lucía Gómez",
+        "avatar": "https://storage.googleapis.com/k-avatars/111484002-43225047",
+        "description": "UX Designer en Tuenti, @malakatonez en Twitter ",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Female"
+    },
+    {
+        "id": 72044001,
+        "uuid": "andinadores",
+        "name": "Laura Andina",
+        "avatar": "https://storage.googleapis.com/k-avatars/72044001-6786a83a",
+        "description": "UX Lead en Tuenti, @andina en Twitter ",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Female"
+    },
+    {
+        "id": 103914001,
+        "uuid": "melyamri",
+        "name": "Meriem El Yamri",
+        "avatar": "https://storage.googleapis.com/k-avatars/103914001-86bea780",
+        "description": "Soy ingeniera en informática y cofundadora de Crowtec, un estudio de programación software y hardware donde nos centramos en utilizar la tecnología en todas sus posibilidades. \nMe encantan las historias, independientemente de su formato, ya sean libros, películas, series, teatro o cualquier historia que la tecnología nos pueda contar. \nMe gusta especialmente el proceso de desarrollo de un proyecto end to end, comprendiendo todas y cada una de las partes involucradas para dar lugar a un producto o servicio final que aporte valor, partiendo de una simple idea y llegando a algo tangible.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Female"
+    },
+    {
+        "id": 105944002,
+        "uuid": "luisenrique",
+        "name": "Luis Enrique Corredera de Colsa",
+        "avatar": "https://storage.googleapis.com/k-avatars/105944002-45c44deb",
+        "description": "Apasionado por la tecnología, es Doctor en Ingeniería de software, emprendedor, empresario y experto en ciber seguridad que ha trabajado como perito informático forense para grandes multinacionales.\n\nEn 2017 se ha incorpora al Centro de Innovación en Ciber Risk Advisorty IT de Deloitte, cuyo objetivo es poner la ciberseguridad al servicio de la empresa: dejar de ser el candado que prohibe para *ser la llave que abre las puertas* a nuevas formas de aprovechar la tecnología para transformación digital de procesos.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 110594001,
+        "uuid": "javiercervino",
+        "name": "Javier Cerviño",
+        "avatar": "https://storage.googleapis.com/k-avatars/110594001-5b938aa6",
+        "description": "Javier es Software Engineer en Minerva Project y trabaja en el proyecto de código libre Licode para crear una plataforma de videoconferencia basada en WebRTC. Es doctor en Telecomunicaciones por la UPM y ha desarrollado sistemas de videoconferencia en la web desde hace más de 10 años.\nAhora es ingeniero full stack desarrollando código principalmente en C++ y Javascript y ha hecho de DevOps en servicios como Amazon AWS o Google App Engine.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "jcague",
+        "gender": "Male"
+    },
+    {
+        "id": 106814001,
+        "uuid": "alvaroalonso",
+        "name": "Alvaro Alonso",
+        "avatar": "https://storage.googleapis.com/k-avatars/106814001-52a3ae9c",
+        "description": "Álvaro Alonso es Doctor en Telecomunicaciones por la Universidad Politécnica de Madrid donde actualmente desarrolla sus labores de investigación y docencia. Especializado en comunicaciones en tiempo real y Cloud Computing, ha trabajado en diversos proyectos relacionados con el e-Learning y la Internet del Futuro destacando el proyecto Lynckia, proveedor de comunicaciones avanzadas en la Web. Es Profesor Asociado en la Universidad Complutense de Madrid e imparte cursos y seminarios relacionados con sus áreas de especialización. ",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "larsonalonso",
+        "gender": "Male"
+    },
+    {
+        "id": 5107427603120128,
+        "uuid": "jorgecasar",
+        "name": "Jorge del Casar",
+        "avatar": "https://storage.googleapis.com/k-avatars/5107427603120128-cf504b3a",
+        "description": "Head of #Javascript at @Kairos_DS • #GDE at Web technologies • #Polymer fan • HTML5 evangelist • @W3C believer",
+        "feedback": {
+            "ratingAverage": 2.5,
+            "entriesCount": 8
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 32614003,
+        "uuid": "emmasesmero",
+        "name": "Emma Sesmero",
+        "avatar": "https://storage.googleapis.com/k-avatars/32614003-5b938aa6",
+        "description": "Tras un par de años trabajando como desarrolladora java, actualmente trabaja como Product Manager en un equipo distribuido",
+        "feedback": {
+            "ratingAverage": 3.45,
+            "entriesCount": 55
+        },
+        "gender": "Female"
+    },
+    {
+        "id": 27954001,
+        "uuid": "modestosja",
+        "name": "Modesto San Juan",
+        "avatar": "https://storage.googleapis.com/k-avatars/27954001-df08a0f9",
+        "feedback": {
+            "ratingAverage": 4.9,
+            "entriesCount": 29
+        },
+        "twitterAccount": "msanjuan",
+        "gender": "Male"
+    },
+    {
+        "id": 108844004,
+        "uuid": "gprosemary",
+        "name": "Rosa Mª González",
+        "avatar": "https://storage.googleapis.com/k-avatars/108844004-e327a1dc",
+        "description": "Después de 23 años de experiencia en departamentos financiero, administración,  técnicos y  atención al cliente, en diferentes empresas siempre visto desde el lado del usuario, hace 3 años di el salto al otro lado :D y me formé en grado superior  Desarrolladora de Aplicaciones Web.\n\nComo experiencia profesional realicé prácticas del grado en ASELCIS Consulting, en las que descubrí el mundo de Odoo un ERP para pymes, donde aprendí Python. \nMi último hallazgo MEAN, descubierto a través de un  bootcamp que acabo de realizar, donde se unen 4 tecnologías (Mongo, Express, Angular, Nodejs)  para poder realizar aplicaciones web. \nEn la actualidad estoy haciendo prácticas asociadas con el curso de MEAN en Alebat, sin olvidar y manteniendo el constante aprendizaje.\nHe participado como ponente en TechSHEssion en este mes de mayo. \nTwitter: @gprosemary\n",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "gprosemary",
+        "gender": "Female"
+    },
+    {
+        "id": 107484005,
+        "uuid": "dheerajjoshi1991",
+        "name": "Jose Joshi",
+        "avatar": "https://storage.googleapis.com/k-avatars/107484005-0f70f895",
+        "description": "Dheeraj is a Front-end Artisan at Wingify. He is quite adept at writing JavaScript, an open source lover, and web security enthusiast. When he is not writing code, he spends time finding and reporting security vulnerabilities in web applications. twitter.com/dheerajhere",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 40264002,
+        "uuid": "alvarosanchezmariscal",
+        "name": "Álvaro Sánchez-Mariscal",
+        "avatar": "https://storage.googleapis.com/k-avatars/40264002-cf7d5848",
+        "description": "Álvaro is a member of the Grails team at OCI and a Grails committer. He is a\npassionate software architect and agile enthusiast with over 16 years of experience.\nHe started his career in 2001 coding in Perl and Java, but then quickly focused\non Java EE, working for companies like IBM BCS, BEA Systems or Sun Microsystems.\nHe created his own company, Salenda, in 2005, the very first Grails company in\nSpain. Since 2013 he has worked in different industries like gambling games and\nfintech. He now works for OCI, the company behind Grails.\n\nÁlvaro is a speaker at conferences like GeeCON, JavaLand, JavaZone and Codemotion.\nHe has also written several Grails plugins, including Spring Security REST, which\nprovides stateless, RESTful, token based authentication for Grails using OAuth 2\nand JWT.",
+        "feedback": {
+            "ratingAverage": 4.67,
+            "entriesCount": 3
+        },
+        "twitterAccount": "alvaro_sanchez",
+        "gender": "Male"
+    },
+    {
+        "id": 105944001,
+        "uuid": "ineshuertas1",
+        "name": "Inés Huertas Freire",
+        "avatar": "https://storage.googleapis.com/k-avatars/105944001-cdf8d7fa",
+        "description": "Data Scientist y cofundadora de Datatons (www.datatons.com), Ex-Sysadmin y enamorada de los datos,  desarrolla proyectos de analítica sobre plataforma Hadoop no solo enfocado en el tratamiento dato sino también en la parte del diseño dada su experiencia en la administración de sistemas Big Data y HPC.\n\nActualmente participa también como coorganizadora del grupo de R-ladies Madrid y el meetup de Data Science Madrid intentando generar una comunidad donde todo el mundo que tenga interés pueda participar e iniciarse en el mundo de los datos.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "quierodata",
+        "gender": "Female"
+    },
+    {
+        "id": 75634004,
+        "uuid": "juantomasgarcia",
+        "name": "Juan Garcia",
+        "avatar": "https://storage.googleapis.com/k-avatars/75634004-f78f022b",
+        "description": "CDO at Open Sistemas\nGoogle Developer Expert for cloud (2017) \nAuthor the Spanish free software book \"La Pastilla Roja\"\nOrganizer of Machine Learning Spain and GDG cloud Madrid meetups.\nFormer President of Hispalinix (Spanish Linux Local User Group) ",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 62674003,
+        "uuid": "smorcuend",
+        "name": "Sergio Morcuende",
+        "avatar": "https://storage.googleapis.com/k-avatars/62674003-c3bd01a6",
+        "description": "Ingeniero de Sistemas Audiovisuales. Apasionado de las tecnologías web desde hace más de cinco años, en especial del mundo Front-end. Maker. Dreamer.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "_serxius_",
+        "gender": "Male"
+    },
+    {
+        "id": 35504001,
+        "uuid": "luiscalvo",
+        "name": "luis calvo",
+        "avatar": "https://storage.googleapis.com/k-avatars/35504001-f5e3ac40",
+        "description": "Luis Calvo comenzó su carrera profesional a finales de los 90, en pleno \"boom\" de internet, como maquetador (antes no existía el término \"Front Developer\" ni el de \"Full stack\" claro). Actualmente trabaja como Senior Front Developer y responsable del equipo de Front de Paradigma Digital. Experto en el uso de las tecnologías \"del lado del cliente\" (html, css, javascript, ...) ha participado en el desarrollo y conceptualización de un gran número de portales, páginas corporativas y aplicaciones web para las principales empresas. Cree firmemente en la accesibilidad web, el código limpio y en el desarrollo bajo estándares.",
+        "feedback": {
+            "ratingAverage": 4.8,
+            "entriesCount": 15
+        },
+        "twitterAccount": "luiscalvodiaz",
+        "gender": "Male"
+    },
+    {
+        "id": 78154003,
+        "uuid": "micaelgallego",
+        "name": "Micael Gallego",
+        "avatar": "https://storage.googleapis.com/k-avatars/78154003-40785a89",
+        "description": "Micael Gallego es Doctor en Informática y profesor de Cloud computing, Desarrollo Web y Programación Concurrente en la Universidad Rey Juan Carlos. Imparte formación sobre XP y Cloud en empresas y se mancha las manos como desarrollador Java/JavaScript en kurento.org y elastest.io. Ha contado sus experiencias en Codemotion, T3chFest, MadridJUG, MadridAgil y SaveInformaticOS. Le gusta apasionar a los demás con su pasión, el desarrollo software",
+        "feedback": {
+            "ratingAverage": 4.85,
+            "entriesCount": 27
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 102194002,
+        "uuid": "mravgp",
+        "name": "Martin Splitt",
+        "avatar": "https://storage.googleapis.com/k-avatars/102194002-5a77d435",
+        "description": "Martin is open source contributor and web evangelist by heart from Zurich\nwith a decade experience from the trenches of software engineering in multiple fields.\n\nHe works as a software engineer at Archilogic in front- and backend.\nHe devotes his time to moving the web forward, fixing problems, building applications and systems\nand breaking things for fun & profit.\n\nMartin believes in the web platform and is working with bleeding edge technologies that will allow the web to prosper.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 661062,
+        "uuid": "lauramorillovelarde",
+        "name": "Laura Morillo-Velarde Rodríguez",
+        "avatar": "https://storage.googleapis.com/k-avatars/661062-9c37df78",
+        "description": "Backend Engineer en seedtag. Ha peleado con muchas tecnologías desde C++ a Javascript y a a ratos lidia con servidores. En su tiempo libre además organiza meetups para el GDG Madrid y para grupos en los que promueve la mayor participación de las mujeres en tecnología (AgileGirls y Tech&Ladies).",
+        "feedback": {
+            "ratingAverage": 3.99,
+            "entriesCount": 134
+        },
+        "gender": "Female"
+    },
+    {
+        "id": 101264001,
+        "uuid": "ruchavarri",
+        "name": "ruben chavarri",
+        "avatar": "https://storage.googleapis.com/k-avatars/101264001-5b938aa6",
+        "description": "Soy Rubén Chavarri, estudié ingeniería informática en Bilbao y participante de un programa de emprendimiento en EEUU colaborando en proyectos entre la Universidad y empresas. Ahora estoy viviendo en Madrid, centrado en Arquitecturas Front y tecnologías innovadoras. \nEl tiempo libre lo dedico a emprender iniciativas, relacionadas con proyectos sociales, innovación o experiencias interactivas como www.partyrocking.tv. Y mientras tanto disfruto compartiendo la experiencia con la comunidad.\n\nhttps://twitter.com/pekewake",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 52564002,
+        "uuid": "dvdchavarri",
+        "name": "David Chavarri",
+        "avatar": "https://storage.googleapis.com/k-avatars/52564002-530353b0",
+        "description": "Soy David, ingeniero informático de Bilbao. Justo después, me involucré en un programa de innovación y emprendimiento, pasando 3 años en USA. En este tiempo participé en una startup relacionada con tecnologías VoIP y tecnologías interactivas. Hace 4 años volví a Madrid para trabajar en iniciativas relacionadas con la transformación digital como Arquitecto Software dentro de una empresa financiera. \nEn mi tiempo libre continuó cultivando mi carácter emprendedor, asistente frecuente de charlas y meetups, y en cuanto tengo la oportunidad, aprovecho para compartir lo emprendido.\n\nhttps://twitter.com/dvdchavarri",
+        "gender": "Male"
+    },
+    {
+        "id": 75494004,
+        "uuid": "magazpablo",
+        "name": "Pablo Magaz",
+        "avatar": "https://storage.googleapis.com/k-avatars/75494004-d871d112",
+        "description": "Pablo Magaz es el líder técnico del Centro Experto de Arquitectura JavaScript en atSistemas. JavaScripter con una larga trayectoria en proyectos JavaScript con React, Angular, AngularJs, Polymer, RxJs, Redux, etc y ponente en eventos como OpenExpo o Codemotion. Formador de equipos y principal impulsor de la plataforma open source de atSistemas para desarrollo de aplicaciones React y Angular/Js \"Base\".\n\nTwitter: https://twitter.com/pablo_magaz",
+        "feedback": {
+            "ratingAverage": 3.1,
+            "entriesCount": 50
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 1,
+        "uuid": "icoloma",
+        "name": "Nacho Coloma",
+        "avatar": "https://storage.googleapis.com/k-avatars/1-6838db32",
+        "description": "Nacho Coloma is Customer Engineer at Google, where he helps companies of all sizes to migrate their systems to Google Cloud Platform. He is passionate about containers, storage and web technologies. He usually does not speak at Codemotion because he is busy enough keeping the fires running, but this was too cool not to share.",
+        "feedback": {
+            "ratingAverage": 4.3,
+            "entriesCount": 57
+        },
+        "twitterAccount": "nachocoloma",
+        "gender": "Male"
+    },
+    {
+        "id": 76184001,
+        "uuid": "mdelgadodiaz831",
+        "name": "Manu Delgado Diaz",
+        "avatar": "https://storage.googleapis.com/k-avatars/76184001-184d5265",
+        "description": "MVP de Azure, Responsable del departamento Cloud en Pasiona Consulting , Arquitecto .net, MVC , EF, WCF, AJAX, patrones, metodologías , DDD... Apasionado de la tecnología en general y de las cosas bien hechas. Enamorado de las metodologías ágiles y de trabajar en equipo. Me gusta pensar que el mundo web “is the Best” y darle sentido a las siglas SOLID , sí, SOLID no es un mito, existe y se puede llevar a cabo.\n",
+        "feedback": {
+            "ratingAverage": 4.35,
+            "entriesCount": 17
+        },
+        "twitterAccount": "mdelgadodiaz83",
+        "gender": "Male"
+    },
+    {
+        "id": 5121973583609856,
+        "uuid": "jerolba",
+        "name": "Jeronimo López Bezanilla",
+        "avatar": "https://storage.googleapis.com/k-avatars/5121973583609856-cfc243bc",
+        "description": "Jerónimo fue el \"CTO de andar por casa\" de otogami.com y contó cada ciclo de reloj con JMH. Lleva 16 años ganándose la vida como desarrollador, 13 de ellos entorno a tecnologías Java. Declarado troll de Javascript y PHP, actualmente es uno de los coordinadores del Grupo de Usuarios Java de Madrid.",
+        "feedback": {
+            "ratingAverage": 4.41,
+            "entriesCount": 17
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 33724002,
+        "uuid": "katiaaresti",
+        "name": "Katia Aresti",
+        "avatar": "https://storage.googleapis.com/k-avatars/33724002-0ba7833b",
+        "description": "Red Hat Infinispan/JBoss DataGrid core developer",
+        "feedback": {
+            "ratingAverage": 4.88,
+            "entriesCount": 58
+        },
+        "gender": "Female"
+    },
+    {
+        "id": 40114001,
+        "uuid": "galder",
+        "name": "Galder Zamarreño",
+        "avatar": "https://storage.googleapis.com/k-avatars/40114001-172645e4",
+        "description": "Red Hat, Infinispan/JBoss DataGrid co-creator and core developer",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 105564003,
+        "uuid": "amjmigas",
+        "name": "Anna Migas",
+        "avatar": "https://storage.googleapis.com/k-avatars/105564003-d5a3f91d",
+        "description": "Anna works as a Front-end Developer and Designer at Lunar Logic, the no-management company based in Kraków, Poland. She is always trying to find ways to make people fall in love with coding and has a long history of organizing coding workshops for WebMuses and Rails Girls. In her spare time she practices Pilates, plays Hearthstone and reads scifi and fantasy books.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Female"
+    },
+    {
+        "id": 34464003,
+        "uuid": "mrcabellom",
+        "name": "Manuel Rodrigo Cabello Malagón",
+        "avatar": "https://storage.googleapis.com/k-avatars/34464003-dbb5b399",
+        "description": "Software Engineer en Plain Concepts con una experiencia de más de 8 años en el desarrollo de aplicaciones web. Apasionado de las nuevas tecnologías y aplicaciones que utilizan técnicas basadas en Inteligencias Artificial.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "mrcabellom",
+        "gender": "Male"
+    },
+    {
+        "id": 107494001,
+        "uuid": "carloslanderas",
+        "name": "Carlos Landeras",
+        "avatar": "https://storage.googleapis.com/k-avatars/107494001-d4b2459c",
+        "description": "Software Engineer en Plain Concepts (Microsoft Partner Company) con más de 8 años de experiencia. Especializado en desarrollo de aplicaciones web con tecnología .NET y apasionado de las nuevas arquitecturas y herramientas Front-End.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "Carlos_Lande",
+        "gender": "Male"
+    },
+    {
+        "id": 41864001,
+        "uuid": "noemims",
+        "name": "Noemi Medina",
+        "avatar": "https://storage.googleapis.com/k-avatars/41864001-da07deca",
+        "description": "Fundadora de la plataforma \"Salvemos a los maquetas\", vive enamorada del CSS y piensa dominar el mundo con él.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "noemedinaweb",
+        "gender": "Female"
+    },
+    {
+        "id": 4816106682318848,
+        "uuid": "v4n3ss4ms",
+        "name": "vanessa skywalker",
+        "avatar": "https://storage.googleapis.com/k-avatars/4816106682318848-e9b15cb7",
+        "description": "Hago lo que puedo, cuando me dejan",
+        "gender": "Female"
+    },
+    {
+        "id": 44934004,
+        "uuid": "momartinm",
+        "name": "Moisés Martínez",
+        "avatar": "https://storage.googleapis.com/k-avatars/44934004-11181ccb",
+        "description": "I am Moisés Martínez and I am Ph.D. in the field of Artificial Intelligence from Universidad Carlos III de Madrid, Spain (specializing in Classical Planning, Machine Learning and Robotic Systems). Research, T3chFest Organizer, speaker and meetups lover. You can reach me on Twitter as @moisipm.",
+        "feedback": {
+            "ratingAverage": 4.4,
+            "entriesCount": 25
+        },
+        "twitterAccount": "moisipm",
+        "gender": "Male"
+    },
+    {
+        "id": 69414001,
+        "uuid": "pjmolina",
+        "name": "Pedro J. Molina",
+        "avatar": "https://storage.googleapis.com/k-avatars/69414001-a135e59d",
+        "description": "[Pedro J. Molina](http://pjmolina.com) holds a PhD. in Compute Sciences from the Technical University of Valencia. After working in different product companies related to Modeling and Code Generation he decided to setup a startup called [Metadev](https://metadev.pro) where the focus is to build microservices and tooling for cloud development. Twitter: [@pmolinam](https://twitter.com/pmolinam)",
+        "feedback": {
+            "ratingAverage": 4.41,
+            "entriesCount": 22
+        },
+        "twitterAccount": "pmolinam",
+        "gender": "Male"
+    },
+    {
+        "id": 79284002,
+        "uuid": "marioperezesteso",
+        "name": "Mario Pérez",
+        "avatar": "https://storage.googleapis.com/k-avatars/79284002-e7352a6e",
+        "description": "Ingeniero de Telecomunicación especializado en telemática. Desarrollador cloud en iseazy apasionado de la programación, el conocimiento libre y las nuevas tecnologías. Fundador de geekytheory.com\n\n",
+        "feedback": {
+            "ratingAverage": 2.75,
+            "entriesCount": 4
+        },
+        "twitterAccount": "marioperest",
+        "gender": "Male"
+    },
+    {
+        "id": 5654710254043136,
+        "uuid": "rafaelcasusoromate",
+        "name": "Rafael Casuso Romate",
+        "avatar": "https://storage.googleapis.com/k-avatars/5654710254043136-e6e6d520",
+        "description": "CTO en Stay y CEO de SnowStorm con más de 10 años de experiencia desarrollando tanto Frontend como Backend, especializado en tecnologías como BackboneJS, ReactJS, VueJS y Arquitectura NodeJS aplicada a Inteligencias Conversacionales y Aplicaciones de Comunicación en Tiempo Real. Organizador de las comunidades VueJS Madrid y Bot Development Madrid.",
+        "feedback": {
+            "ratingAverage": 3.75,
+            "entriesCount": 28
+        },
+        "twitterAccount": "Rafael_Casuso",
+        "gender": "Male"
+    },
+    {
+        "id": 74124002,
+        "uuid": "agustin2",
+        "name": "Agustin Cuenca",
+        "avatar": "https://storage.googleapis.com/k-avatars/74124002-bcd36598",
+        "description": "Starter (empezador) more than entrepreneur (emprendedor), I have being around the Internet since 1987 where I discovered my passion for how technology changes the way we communicate.\n\nWith an IT background I have being delivering projects around the Internet since 1993. My main contribution to the projects is interfacing between business and technology people. \n",
+        "feedback": {
+            "ratingAverage": 4.9,
+            "entriesCount": 20
+        },
+        "twitterAccount": "agustincnc",
+        "gender": "Male"
+    },
+    {
+        "id": 110304003,
+        "uuid": "zuri1",
+        "name": "Zuriñe Menéndez",
+        "avatar": "https://storage.googleapis.com/k-avatars/110304003-67a6e21d",
+        "description": "Front-end developer, interaction design, web designer, html creator, css artist, freelance. Me encanta el olor a pixeles por la mañana.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Female"
+    },
+    {
+        "id": 112304002,
+        "uuid": "marinaserranomontes",
+        "name": "marina serrano",
+        "avatar": "https://storage.googleapis.com/k-avatars/112304002-5b938aa6",
+        "description": "¡¡Decidido, seré INGENIERA!! Marina Serrano Montes es mobile software developer en Telefónica I+D. Cofundadora de Girls in Tech Spain, una organización internacional sin ánimo de lucro con el objetivo de potenciar el rol de la mujer en STEM y fomentar su espíritu emprendedor. Apasionada por los desafíos y el emprendimiento; para Marina, la creatividad y la innovación son el motor del éxito. (https://twitter.com/marinillass)",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Female"
+    },
+    {
+        "id": 110704001,
+        "uuid": "cpjimeno0",
+        "name": "Carlos P. Jimemo",
+        "avatar": "https://storage.googleapis.com/k-avatars/110704001-f178d056",
+        "description": "@jimeno0\nJunior JS developer @influencity. Ironhacker since 12/2016 💻🍻⚛ ",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "jimeno0",
+        "gender": "Male"
+    },
+    {
+        "id": 74514001,
+        "uuid": "tuxskar",
+        "name": "oscar ramirez",
+        "avatar": "https://storage.googleapis.com/k-avatars/74514001-ea543b9f",
+        "description": "Ingeniero Informático con experiencia en desarrollo Web especializado en Python.\nAmante del software libre y siempre dispuesto a conocer nuevas tecnologías.\nGithub y twitter como: tuxskar",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "tuxskar",
+        "gender": "Male"
+    },
+    {
+        "id": 5950049183858688,
+        "uuid": "cristinafsanz",
+        "name": "Cristina Fernández",
+        "avatar": "https://storage.googleapis.com/k-avatars/5950049183858688-c46d2e84",
+        "description": "Desarrolladora front-end desde hace 2 años, anteriormente era desarrolladora back-end pero el CSS me cautivó. \nActualmente sigo aprendiendo sobre HTML, CSS y JavaScript y lo voy compartiendo a través de la serie \"Trucos fantásticos y dónde encontrarlos\", especialmente dedicada a los que empiezan en el mundo del desarrollo.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "cristinafsanz",
+        "gender": "Female"
+    },
+    {
+        "id": 5670091068801024,
+        "uuid": "lauralacarra",
+        "name": "Laura Lacarra",
+        "avatar": "https://storage.googleapis.com/k-avatars/5670091068801024-326245ab",
+        "description": "Maña de nacimiento y vocación. En los mundos del desarrollo de software desde hace 8 años. Habla Java y Python. Maniática del agilismo. Colabora actualmente con Cachirulo Valley aunque en el pasado también hizo sus pinitos colaborando con Agile Aragón, Betabeers y GeekTalks. ",
+        "feedback": {
+            "ratingAverage": 3.69,
+            "entriesCount": 13
+        },
+        "twitterAccount": "lauralacarra",
+        "gender": "Female"
+    },
+    {
+        "id": 36164001,
+        "uuid": "alejacma",
+        "name": "Alejandro Campos Magencio",
+        "avatar": "https://storage.googleapis.com/k-avatars/36164001-3ca80fb5",
+        "description": "Alejandro Campos Magencio lleva en el mundo del desarrollo de software más de 20 años, todavía disfrutando como el primer día, sin parar de aprender cosas nuevas, y compartiendo lo aprendido con los demás, ahora como Evangelista Técnico de Desarrollo con Tecnologías Microsoft.",
+        "feedback": {
+            "ratingAverage": 3.53,
+            "entriesCount": 15
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 112274001,
+        "uuid": "albertoromeucarrasco",
+        "name": "Alberto Romeu Carrasco",
+        "avatar": "https://storage.googleapis.com/k-avatars/112274001-4a5a1eeb",
+        "description": "Soy full-stack developer en CARTO donde ayudo a empresas de todo el mundo a descubrir la información oculta en sus datos geoespaciales. \n\nEn mis ratos libres, ayudo a estudiantes a que aprendan sobre mapas en Google Summer of Code, colaboro con la ESA a crear aplicaciones con sus datos o participo en *hackathones*.\n\nDespués de 10 años como desarrollador me sigo considerando un aprendiz al que le gusta compartir sus experiencias y seguir mejorando.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "alrocar",
+        "gender": "Male"
+    },
+    {
+        "id": 67814003,
+        "uuid": "joanleon",
+        "name": "Joan Leon",
+        "avatar": "https://storage.googleapis.com/k-avatars/67814003-6ac6b185",
+        "description": "Developer Advocate & Training Manager en Schibsted Spain, pero  sigo siendo un CSS & Animation Lover, me apasiona todo lo relacionado con el desarrollo e interacción en la interfaz de usuario en entornos web. Trato de estar al día en todo lo relacionado con HTML5, CSS, SVG y Javascript. Otra de mis pasiones es la de colaborar en proyectos Open Source.\n\nMe encanta compartir conocimiento, ya sea en MeetUps, Conferencias, Workshops o como docente en Escuela IT... siempre activo en @nucliweb compartiendo todos los recursos y novedades del mundo frontend.",
+        "feedback": {
+            "ratingAverage": 4.08,
+            "entriesCount": 12
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 4804582748192768,
+        "uuid": "nhpatt",
+        "name": "Javier Gamarra",
+        "avatar": "https://storage.googleapis.com/k-avatars/4804582748192768-9ceebb74",
+        "description": "I’m working as an Android developer at Liferay and I’ve worked in many development stacks: JS (angular, node…), Java EE, Scala… I love challenges and learning about everything.",
+        "feedback": {
+            "ratingAverage": 3.86,
+            "entriesCount": 100
+        },
+        "twitterAccount": "nhpatt",
+        "gender": "Male"
+    },
+    {
+        "id": 86924003,
+        "uuid": "75308866",
+        "name": "Sarai Diaz",
+        "avatar": "https://storage.googleapis.com/k-avatars/86924003-c67f3c35",
+        "description": "I’m working as a native mobile developer at Liferay and I wanted to try a hybrid framework... then I met Nativescript and I felt in love!",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "saray_dg",
+        "gender": "Female"
+    },
+    {
+        "id": 111554001,
+        "uuid": "jagudo",
+        "name": "Jorge Agudo",
+        "avatar": "https://storage.googleapis.com/k-avatars/111554001-0da9d238",
+        "description": "Jorge Agudo is a Tech Lead at ThoughtWorks in Barcelona. He loves to develop software as much as the human side of technology. He has worked for the last ten years bringing the best value from his passion to clients in different industries, like insurance, utilities or public sector.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 112354001,
+        "uuid": "mariagomezaguirre",
+        "name": "Maria Gomez",
+        "avatar": "https://storage.googleapis.com/k-avatars/112354001-7d824d89",
+        "description": "Maria Gomez is a Market Tech Principal at ThoughtWorks in Barcelona. She’s been a developer and an architect for over 9 years. She has worked with many different technologies and domains, which has helped her lead teams and advise stakeholders in making the right technology decisions. She is also a speaker and an advocate for diversity and inclusion in the IT industry.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "mariascandella",
+        "gender": "Female"
+    },
+    {
+        "id": 5121716422443008,
+        "uuid": "patxigortazar",
+        "name": "Patxi Gortázar",
+        "avatar": "https://storage.googleapis.com/k-avatars/5121716422443008-dd12210e",
+        "description": "Soy profesor en la Universidad Rey Juan Carlos. He colaborado con el proyecto opensource Kurento montando toda la infraestructura de testing en Jenkins. Recientemente, y fruto de mis experiencias con Kurento, he comenzado a coordinar, desde el grupo @CodeURJC, el proyecto europeo ElasTest (http://elastest.io/), orientado a formar una comunidad y una plataforma específicamente pensada para la ejecución de tests end-to-end de aplicaciones distribuidas complejas en cloud. ",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "fgortazar",
+        "gender": "Male"
+    },
+    {
+        "id": 4804582748192768,
+        "uuid": "nhpatt",
+        "name": "Javier Gamarra",
+        "avatar": "https://storage.googleapis.com/k-avatars/4804582748192768-9ceebb74",
+        "description": "I’m working as a developer at Liferay and I’ve worked in many development stacks: JS (angular, node…), Java EE, Scala… I love challenges and learning about everything. I'm available with the handle @nhpatt in all social networks.",
+        "feedback": {
+            "ratingAverage": 3.86,
+            "entriesCount": 100
+        },
+        "twitterAccount": "nhpatt",
+        "gender": "Male"
+    },
+    {
+        "id": 87844002,
+        "uuid": "75308789",
+        "name": "Victor Galan",
+        "avatar": "https://storage.googleapis.com/k-avatars/87844002-e6933352",
+        "description": "I'm a developer who loves challenges, play with new technologies and contribute to the open source world. Currently, I'm working as a iOS & Android developer in Liferay contributing in projects like Liferay Screens and WeDeploy",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "votilde",
+        "gender": "Male"
+    },
+    {
+        "id": 74534001,
+        "uuid": "josemato",
+        "name": "Jose Mato",
+        "avatar": "https://storage.googleapis.com/k-avatars/74534001-fb644633",
+        "description": "Desarrollador web en MOBGEN | Accenture Digital centrado actualmente en NodeJS y en los ratos libres, en la Seguridad Web.\n@security4dev https://es.linkedin.com/in/josematomarino\n",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "security4dev",
+        "gender": "Male"
+    },
+    {
+        "id": 31044001,
+        "uuid": "rauljimenezortega",
+        "name": "Raul Jiménez Ortega - @hhkaos",
+        "avatar": "https://storage.googleapis.com/k-avatars/31044001-6c004321",
+        "description": "Desarrollador web desde los 15 años (1999), en los últimos años he trabajado en varias startups españolas además de haber podido trabajar brevemente en 500 Startups (Silicon Valley).\n\nActualmente trabajo en [Esri](http://developers.arcgis.com/), soy padre de un futuro developer de pocos meses ;P, dinamizo [geodevelopers.org](http://www.geodevelopers.org/), intento terminar el libro [cursohtml5desdecero.com](http://cursohtml5desdecero.com/) y alguna cosilla más.\n\n[Web personal](http://www.rauljimenez.info) | [GitHub](http://www.github.com/hhkaos) | [LinkedIn](http://es.linkedin.com/in/jimenezortegaraul) | [Twitter](http://www.twitter.com/hhkaos)",
+        "feedback": {
+            "ratingAverage": 4.62,
+            "entriesCount": 40
+        },
+        "twitterAccount": "hhkaos",
+        "gender": "Male"
+    },
+    {
+        "id": 108714001,
+        "uuid": "ebalmorigonzalez",
+        "name": "Edurne Balmori González",
+        "avatar": "https://storage.googleapis.com/k-avatars/108714001-028a26a0",
+        "description": "Me encanta gestionar equipos y resolver conflictos mediante la comunicación, soy desarrolladora y tengo más de 11 años de experiencia en diversas tecnologías que van desde Java a los nuevos frameworks de JS. Para desestresarme de este mundo que avanza tan rápido en mis ratos libres me dedico a leer, a viajar y a escribir historias.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Female"
+    },
+    {
+        "id": 5974675452592128,
+        "uuid": "fmarcos83",
+        "name": "Francisco Marcos",
+        "avatar": "https://storage.googleapis.com/k-avatars/5974675452592128-93a39227",
+        "description": "Desarrollador, 6 años de experiencia en el mundo FE, primero js, html y css. Después enganchado a los frameworks ExtJS y Angular. Ahora enganchado los componentes web y la programación reactiva. En mis ratos libres me encanta el cine, leer, el bricolaje, hacer deporte y hacer el vago que posiblemente sea la actividad que más me gusta de todas.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 35764001,
+        "uuid": "jdgarcia",
+        "name": "JOSE DANIEL GARCIA SANCHEZ",
+        "avatar": "https://storage.googleapis.com/k-avatars/35764001-fcd0f358",
+        "description": "J. Daniel García es un programador de C++ con 25 años de experiencia. Ha usado el lenguaje en diversos sectores industriales. Es miembro del comité ISO de normalización de C++ donde ha realizado contribuciones a C++11, C++14, y C++17. Su principal interés es simplificar la vida de los desarrolladores buscando equilibrio entre el rendimiento de las aplicaciones y la facilidad de mantenimiento. Es profesor titular de Arquitectura de Computadores de la UC3M.",
+        "feedback": {
+            "ratingAverage": 4.51,
+            "entriesCount": 47
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 28924001,
+        "uuid": "raguilera",
+        "name": "Rubén Aguilera Díaz-Heredero",
+        "avatar": "https://storage.googleapis.com/k-avatars/28924001-fabfc0cb",
+        "description": "Rubén Aguilera es un profesional con más de 10 años de experiencia que desde 2009 desempeña su trabajo en Autentia como consultor tecnológico, donde ha tenido la oportunidad de trabajar y formarse en muy distintas metodologías, herramientas y tecnologías tanto de servidor como de cliente. \n\nComparte su conocimiento escribiendo tutoriales en la web www.adictosaltrabajo.com ",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 75494001,
+        "uuid": "javierfs89",
+        "name": "Javier Fuentes Sánchez",
+        "avatar": "https://storage.googleapis.com/k-avatars/75494001-75683af6",
+        "description": "Entusiasta de la programación funcional y co-organizador del Meetup de Scala de Madrid, Ingeniero Informático por la Universidad Politécnica de Madrid, actualmente trabajando en Habla Computing como Ingeniero de Software, estudiando nuevas técnicas de programación funcional.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "javifdev",
+        "gender": "Male"
+    },
+    {
+        "id": 106854003,
+        "uuid": "barrancoalberto",
+        "name": "Alberto Barranco Ramón",
+        "avatar": "https://storage.googleapis.com/k-avatars/106854003-59f04aa3",
+        "description": "Soy desarrollador de software en Autentia. Me encanta aprender cosas nuevas cada día y el rock.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 96414005,
+        "uuid": "rgranados",
+        "name": "Rafael Granados",
+        "avatar": "https://storage.googleapis.com/k-avatars/96414005-6a820c06",
+        "description": "Dev & Arch Coordinator in Desigual.com \ntwitter @rgranadosd\n",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "rgranad",
+        "gender": "Male"
+    },
+    {
+        "id": 109294002,
+        "uuid": "rubenmarinraga",
+        "name": "Rubén Marín Raga",
+        "avatar": "https://storage.googleapis.com/k-avatars/109294002-19963d72",
+        "description": "Technical Lead in Desigual \n@rubennsss\n",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 84554001,
+        "uuid": "jgtrapero",
+        "name": "Juan Gómez",
+        "avatar": "https://storage.googleapis.com/k-avatars/84554001-d10b72d8",
+        "description": "Android Developer en BEEVA. Tras varios años desarrollando apps Android para startups sigo frikeando y aprendiendo constantemente tanto del mundo mobile como de otros campos.\n\nMe declaro fan de las betas, de la refactorización y la cerveza. No necesariamente en ese orden.\n@juangomez_inf",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 5073253018107904,
+        "uuid": "eduardogonzalezfernandez",
+        "name": "Eduardo González Fernández",
+        "avatar": "https://storage.googleapis.com/k-avatars/5073253018107904-18d9bb6a",
+        "description": "Mobile developer who has been part of different multidisciplinar mobile teams for the last 10 years. Currently Technical Lead on Tuenti, leading the Apps Core platform team, responsible of the tuenti apps core components. Previously was working on London based Mobile Development companies or at Spanish startups like Youzee.\nHe is also part of the Eight (https://iam8.tv) team (San Francisco based startup) who recently took part on the Tv Show \"Planet of Apps\" lead by Apple and Director of the Mobile Master Development program on the ISDI institution.\n@ieduardogf on Twitter",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "ieduardogf",
+        "gender": "Male"
+    },
+    {
+        "id": 656030,
+        "uuid": "kinisoftware1",
+        "name": "Joaquin Engelmo Moriche",
+        "avatar": "https://storage.googleapis.com/k-avatars/656030-77ab1b00",
+        "description": "Charlatán incansable, programador obsesionado con las buenas prácticas y la mejora continúa, curioso por naturaleza, aprendiz compulsivo y euskaldun de adopción en primero de euskera. Tuenti es mi casa, me aguantan desde hace 4 años ya, donde pico código, organizo meetups, saco el látigo con el testing y un largo etcétera.",
+        "feedback": {
+            "ratingAverage": 4.02,
+            "entriesCount": 233
+        },
+        "twitterAccount": "kinisoftware",
+        "gender": "Male"
+    },
+    {
+        "id": 77224001,
+        "uuid": "finaperezca",
+        "name": "Fina Perez",
+        "avatar": "https://storage.googleapis.com/k-avatars/77224001-edf72673",
+        "description": "Ingeniera informática, siempre se ha dedicado a la rama de la tecnología móvil. Su afán por viajar y su pasión por los smartphones le han dado la oportunidad de trabajar en distintos sitio de Europa, como Budapest o Ginebra. Desde hace cuatro años y medio, forma parte de Tuenti, trabajando en la aplicación móvil, haciendo tanto Android como iOS, aunque a veces se pasa al lado oscuro y hace web.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Female"
+    },
+    {
+        "id": 75384004,
+        "uuid": "pollobull12",
+        "name": "Robert Bermejo",
+        "avatar": "https://storage.googleapis.com/k-avatars/75384004-3ca80fb5",
+        "description": "MVP de Azure, formo parte del equipo de Sogeti España desde 2010 donde realizo funciones de Arquitecto, Team Leader, Mobile Leader and Cloud Specialist. Me encanta vivir en la \"nube\" y soñar en ella todo el día. Además tengo tiempo para organizar el grupo de usuarios CATzure de Barcelona donde hablamos de Azure,Azure y Azure.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "robertbemejo",
+        "gender": "Male"
+    },
+    {
+        "id": 110594001,
+        "uuid": "javiercervino",
+        "name": "Javier Cerviño",
+        "avatar": "https://storage.googleapis.com/k-avatars/110594001-5b938aa6",
+        "description": "Javier es Software Engineer en Minerva Project y trabaja en el proyecto de código libre Licode para crear una plataforma de videoconferencia basada en WebRTC. Es doctor en Telecomunicaciones por la UPM y ha desarrollado sistemas de videoconferencia en la web desde hace más de 10 años.\nAhora es ingeniero full stack desarrollando código principalmente en C++ y Javascript y ha hecho de DevOps en servicios como Amazon AWS o Google App Engine.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "jcague",
+        "gender": "Male"
+    },
+    {
+        "id": 106804002,
+        "uuid": "lodoyun",
+        "name": "Pedro Rodriguez",
+        "avatar": "https://storage.googleapis.com/k-avatars/106804002-3b2d4606",
+        "description": "Doctor Ingeniero de Telecomunicación por la UPM. Trabajando en comunicación en tiempo real  (tanto en frontend como en backend) desde hace más de 10 años, primero como investigador en la UPM y ahora como Software Engineer en Minerva Project. Uno de los 3 principales desarrolladores de Licode, el proveedor de videoconferencia de WebRTC de código libre.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "lodoyun",
+        "gender": "Male"
+    },
+    {
+        "id": 55174003,
+        "uuid": "davidbonilla",
+        "name": "David Bonilla",
+        "avatar": "https://storage.googleapis.com/k-avatars/55174003-c122d63e",
+        "description": "Pareja de Candela, padre de Irene y Daniel, amigo de sus amigos, corredor (lento) de maratones, gallego militante, defensor de causas perdidas y CEO de Comalatech. Hace cosas en Internet. Por ejemplo, escribir tonterías en Twitter (@david_bonilla)",
+        "feedback": {
+            "ratingAverage": 4.07,
+            "entriesCount": 85
+        },
+        "twitterAccount": "david_bonilla",
+        "gender": "Male"
+    },
+    {
+        "id": 78324001,
+        "uuid": "dmj200",
+        "name": "alvaro fidalgo",
+        "avatar": "https://storage.googleapis.com/k-avatars/78324001-5b938aa6",
+        "description": "Desarrollador Back-end en Stratio , actualmente desarrolla en Scala aunque a lo largo de su carrera a desarrollado en Java , Scala , JavaScript y Python . Es un apasionado de las buenas prácticas en el desarrollo software S.O.L.I.D , Kiss , TDD , BDD , las cuales aplica en los equipos en los que ha estado desarrollando. Está en constante aprendizaje y estará contento en un equipo siempre que esté en constante aprendizaje y nunca haga un día lo mismo que hizo el anterior.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 100184001,
+        "uuid": "juanjo2",
+        "name": "Juanjo Montiel",
+        "avatar": "https://storage.googleapis.com/k-avatars/100184001-2d1e5044",
+        "description": "@kastwey",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 36364001,
+        "uuid": "tonirecio",
+        "name": "Toni Recio Sacristà",
+        "avatar": "https://storage.googleapis.com/k-avatars/36364001-3ca80fb5",
+        "description": "Toni Recio es Responsable de Tecnología e Innovación en pasiona, Divulgador Tecnológico en Fundación [T]echdencias y Microsoft .NET MVP. Jugador de la NBA no drafteado, alterna su labor de padre con infinidad de proyectos vinculados a las comunidades Microsoft.",
+        "feedback": {
+            "ratingAverage": 4.24,
+            "entriesCount": 67
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 108684003,
+        "uuid": "lcamino",
+        "name": "Laura Camino",
+        "avatar": "https://storage.googleapis.com/k-avatars/108684003-3ca80fb5",
+        "description": "Escritora vocacional y periodista profesional, he unido estas dos destrezas con mi pasión tecnológica y experiencia 2.0 para ofrecer un perfil orientado al marketing digital y la comunicación. A esto me dedico desde el departamento de MKT&COM de Pasiona. Lo mío no es el código sino las palabras, pero cacharreo como el que más y voy haciendo mis pinitos en un mundo que me apasiona.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "lauracamino2_0",
+        "gender": "Female"
+    },
+    {
+        "id": 103824001,
+        "uuid": "danotrilogic",
+        "name": "David González",
+        "avatar": "https://storage.googleapis.com/k-avatars/103824001-ce2ac53d",
+        "description": "Responsable de desarrollo de aplicaciones multipantalla y plataforma de vídeo en Atresmedia. Aficionado a la cocina y a la música.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "danotrilogic",
+        "gender": "Male"
+    },
+    {
+        "id": 5649126595231744,
+        "uuid": "andresviedma",
+        "name": "Andrés Viedma",
+        "avatar": "https://storage.googleapis.com/k-avatars/5649126595231744-e53e4863",
+        "description": "Javasaurio con más de 20 años de experiencia desarrollando para industrias de todo tipo, desde la aeroespacial hasta las bibliotecas, pasando por publicidad, banca, seguros... y ahora en el mundo de las comunicaciones móviles en Tuenti. Más back que front, en los últimos años ha podido disfrutar bastante desarrollando arquitecturas distribuidas de microservicios en las que se busca tanto un buen rendimiento como una alta disponibilidad.",
+        "feedback": {
+            "ratingAverage": 4.68,
+            "entriesCount": 22
+        },
+        "twitterAccount": "andres_viedma",
+        "gender": "Male"
+    },
+    {
+        "id": 87004002,
+        "uuid": "ivanblanquez",
+        "name": "Iván Blanquez Romero",
+        "avatar": "https://storage.googleapis.com/k-avatars/87004002-adadc55d",
+        "description": "Tras 10 años dedicado al desarrollo software, he pasado por varias empresas y proyectos casi siempre con Java como core. Javero reconocido, aunque hablo otras lenguas, me apasiona el desarrollo software, el big data y la computación en la nube y estar rodeado de gente de la que día a día pueda ir aprendiendo. Actualmente trabajo en Beeva aportando soluciones técnicas en ecosistemas Big Data desplegados en la nube.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 105914001,
+        "uuid": "debiadastra",
+        "name": "Daniel Echeverri Montoya",
+        "avatar": "https://storage.googleapis.com/k-avatars/105914001-e04c2ada",
+        "description": "Information Security Researcher independiente, entusiasta de la seguridad informática y el hacking, autor del blog thehackerway.com y las plataformas THW Academy (academy.thehack) y THW Labs (https://thehackerway.es/thw-labs/). Autor de los libros \"Python para Pentesters\" \"Hacking con Python\" y \"Deep Web: TOR, FreeNET & I2P - Privacidad y Anonimato\" de 0xWORD. OSCP Certified por Offensive Security y ponente habitual en eventos de hacking y seguridad de la información en España y América Latina. Desarrollador y contribuidor de múltiples herramientas enfocadas al pentesting y al hacking tales como Tortazo, pynessus-rest, w3af, módulos de metasploit framework, etc. Colaborador en actividades formativas en empresas y organizaciones del sector tales como INCIBE (Instituto Nacional de Ciberseguridad), UCLM (Universidad Castilla-La Mancha), Securízame, entre otras.\nTwitter: @jdaanial\nsitio web: thehackerway.com / thehackerway.es\ncontacto: adastra@thehackerway.com\n",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 37154001,
+        "uuid": "jmpergar",
+        "name": "Jose Manuel Pereira Garcia",
+        "avatar": "https://storage.googleapis.com/k-avatars/37154001-b4cc2b2c",
+        "description": "Backend Engineer in @seedtag. Formerly Android Engineer in @JobandtalentEng and @RedboothHQ. Photography lover, boardgamer and Andalú.",
+        "feedback": {
+            "ratingAverage": 4.59,
+            "entriesCount": 27
+        },
+        "twitterAccount": "jmpergar",
+        "gender": "Male"
+    },
+    {
+        "id": 44934004,
+        "uuid": "momartinm",
+        "name": "Moisés Martínez",
+        "avatar": "https://storage.googleapis.com/k-avatars/44934004-11181ccb",
+        "description": "I am Moisés Martínez and I am Ph.D. in the field of Artificial Intelligence from Universidad Carlos III de Madrid, Spain (specializing in Classical Planning, Machine Learning and Robotic Systems). Research, T3chFest Organizer, speaker and meetups lover. You can reach me on Twitter as @moisipm.",
+        "feedback": {
+            "ratingAverage": 4.4,
+            "entriesCount": 25
+        },
+        "twitterAccount": "moisipm",
+        "gender": "Male"
+    },
+    {
+        "id": 5184581858754560,
+        "uuid": "nerealuis",
+        "name": "Nerea Luis Mingueza",
+        "avatar": "https://storage.googleapis.com/k-avatars/5184581858754560-b7577129",
+        "description": "My name is Nerea and I am a PhD student in Multi-Agent Planning and Robotics at Daniel Borrajo's PLG group in Universidad Carlos III de Madrid, Spain. I love robots and everything related with Artificial Intelligence. In my free time I collaborate organising events such as T3chFest, Women TechMakers, or similar ones to reach more women to study Computer Science and enjoy technology. You can reach me on Twitter as @sailormercury91.",
+        "feedback": {
+            "ratingAverage": 4.63,
+            "entriesCount": 27
+        },
+        "twitterAccount": "sailormercury91",
+        "gender": "Female"
+    },
+    {
+        "id": 69314002,
+        "uuid": "soyguijarro",
+        "name": "Ramón Guijarro",
+        "avatar": "https://storage.googleapis.com/k-avatars/69314002-48487b0a",
+        "description": "Desarrollador web creativo con interés por el diseño, la comunicación y los datos. Entusiasta de JavaScript y React. Me gusta compartir lo poco que sé todo lo que puedo y me fascinan los nuevos e inesperados usos de la web. Inventarme necesidades personales para resolverlas programando es otra de mis cuestionables virtudes.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "soyguijarro",
+        "gender": "Male"
+    },
+    {
+        "id": 106884001,
+        "uuid": "dhavaldoshi",
+        "name": "Juan Doshi",
+        "avatar": "https://storage.googleapis.com/k-avatars/106884001-e1a4a51c",
+        "description": "A lead developer working at Thoughtworks for 9 years with a keen interest in devops, security and performance on distributed agile teams.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 108744004,
+        "uuid": "nikig7690",
+        "name": "Nikita Gupta",
+        "avatar": "https://storage.googleapis.com/k-avatars/108744004-bbb30a97",
+        "description": "A software developer working with ThoughtWorks for 5 years with an interest in problem solving.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 54534005,
+        "uuid": "m3ario1",
+        "name": "Mario Velasco",
+        "avatar": "https://storage.googleapis.com/k-avatars/54534005-9704f2a3",
+        "description": "Android Developer en Atresmedia (Antena 3), code reader en mis tiempos libres y bug writer cuando nadie me ve. Diagnosticado de inglesitis y diógenes meetupil. Me podéis contactar en @MVelascoC",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 245001,
+        "uuid": "carlos-ble",
+        "name": "Carlos Ble",
+        "avatar": "https://storage.googleapis.com/k-avatars/245001-5e706ba4",
+        "description": "Jugador de equipo en Codesai. Apasionado de las computadoras desde los 6 años y viviendo de ello desde 2001. Carlos ha sido consultor independiente desde 2009, ayudando a decenas de equipos y organizaciones por toda España. También imparte formación en Alemania, Inglaterra, Belgica y Francia. Desde 2001 a 2009 trabajó en diversas empresas incluyendo sus propias startups. Es autor del primer libro en castellano sobre Test Driven Development (TDD). Es desarrollador fullstack y los lenguajes que maneja habitualmente son JavaScript, C#, Java and Python. Conferenciante y blogger.\n\nReside en Tenerife. Es vegano, amante de los animales, agricultor aficionado, y ahora también haciendo pinitos con bricolaje, albañilería, electricidad, fontanería... en transicion hacia un estilo de vida sostenible para el planeta\n",
+        "feedback": {
+            "ratingAverage": 4.63,
+            "entriesCount": 41
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 36364001,
+        "uuid": "tonirecio",
+        "name": "Toni Recio Sacristà",
+        "avatar": "https://storage.googleapis.com/k-avatars/36364001-3ca80fb5",
+        "description": "Toni Recio es Responsable de Tecnología e Innovación en pasiona, Divulgador Tecnológico en Fundación [T]echdencias y Microsoft .NET MVP. Jugador de la NBA no drafteado, alterna su labor de padre con infinidad de proyectos vinculados a las comunidades Microsoft.",
+        "feedback": {
+            "ratingAverage": 4.24,
+            "entriesCount": 67
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 33614001,
+        "uuid": "luis_ruiz_pavon",
+        "name": "Luis Ruiz Pavón",
+        "avatar": "https://storage.googleapis.com/k-avatars/33614001-3ca80fb5",
+        "description": "Desarrollador en Plain Concepts y co-fundador de MsCoders Madrid. MVP de ASP.NET",
+        "feedback": {
+            "ratingAverage": 4,
+            "entriesCount": 12
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 93534001,
+        "uuid": "ignaciodenuevo",
+        "name": "Ignacio",
+        "avatar": "https://storage.googleapis.com/k-avatars/93534001-64482007",
+        "description": "Front-end Developer especializado en arquitectura y front-end performance and responsive web design.\n\nCo-host en WeCodeSign Podcast y apasionado del Open Source.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "ignaciodenuevo",
+        "gender": "Male"
+    },
+    {
+        "id": 96484001,
+        "uuid": "carmenansio",
+        "name": "Carmen Ansio Ruiz",
+        "avatar": "https://storage.googleapis.com/k-avatars/96484001-c3796f5d",
+        "description": "UI & Front-end Designer amante del CSS y los SVG's.\n\nIntegrante de AdaJS, de la fundación Techdencias y cohost de WeCodeSign Podcast.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "carmenansio",
+        "gender": "Female"
+    },
+    {
+        "id": 31054001,
+        "uuid": "javiabadia",
+        "name": "Javier Abadía",
+        "avatar": "https://storage.googleapis.com/k-avatars/31054001-990914bf",
+        "feedback": {
+            "ratingAverage": 4.86,
+            "entriesCount": 93
+        },
+        "twitterAccount": "javierabadia",
+        "gender": "Male"
+    },
+    {
+        "id": 112354001,
+        "uuid": "mariagomezaguirre",
+        "name": "Maria Gomez",
+        "avatar": "https://storage.googleapis.com/k-avatars/112354001-7d824d89",
+        "description": "Maria Gomez is a Market Tech Principal at ThoughtWorks in Barcelona. She’s been a developer and an architect for over 9 years. She has worked with many different technologies and domains, which has helped her lead teams and advise stakeholders in making the right technology decisions. She is also a speaker and an advocate for diversity and inclusion in the IT industry.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "mariascandella",
+        "gender": "Female"
+    },
+    {
+        "id": 106884002,
+        "uuid": "tanujmathur",
+        "name": "Miguel Mathur",
+        "avatar": "https://storage.googleapis.com/k-avatars/106884002-07e520e8",
+        "description": "Tanuj Mathur is a Lead Consultant at ThoughtWorks Barcelona. With nearly 12 years of experience in delivering and architecting large scale enterprise applications in varied technical and business domains, he's worn multiple hats as a developer, architect, and an agile coach with experience in agile development practices and continuous delivery.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "tanujmathur",
+        "gender": "Male"
+    },
+    {
+        "id": 52294009,
+        "uuid": "carlosbastospc",
+        "name": "Carlos Bastos Pérez-Cuadrado",
+        "avatar": "https://storage.googleapis.com/k-avatars/52294009-94ef5f86",
+        "description": "Carlos Bastos programa desde hace 11 años y trabaja de arquitecto de frontend. Ha liderado el front end de proyectos de gran tamaño (>100 desarrolladores, producto con millones de usuarios), tanto públicos como privados, y también ha trabajado como consultor e impartido formaciones para empresas de gran tamaño.\nEs un apasionado del código limpio, patrones, principios de diseño, buenas prácticas, programación orientada a objetos y en general de mejorar.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 39694001,
+        "uuid": "luisruizpavon",
+        "name": "Luis Ruiz Pavón",
+        "avatar": "https://storage.googleapis.com/k-avatars/39694001-eb11e71f",
+        "description": "Desarrollador en Plain Concepts y co-fundador de MsCoders Madrid. MVP de ASP.NET",
+        "gender": "Male"
+    },
+    {
+        "id": 102294002,
+        "uuid": "fjaguero",
+        "name": "Fernando Agüero",
+        "avatar": "https://storage.googleapis.com/k-avatars/102294002-24d69e3c",
+        "description": "Hello! I am Fernando Agüero [1] and I am Web developer that is heavily involved in tech communities. I founded ValenciaJS in 2015 as an effort to empower the JS community in Valencia, the third biggest city of Spain. Recently I also created MadridDevs.org, a Slack channel for the local developer's community. I’ve been involved in the Mozilla Hispano community for 5 years now, helping to promote openness, innovation & opportunity on the Web. I gave talks in Argentina, Spain, Peru and Poland related to Mozilla. I also gave talks in ValenciaJS and at my current company. In April 2017 I launched my first book (The Success Hacker).\n\n[1] https://www.linkedin.com/in/fjaguero/",
+        "feedback": {
+            "ratingAverage": 4.04,
+            "entriesCount": 25
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 85274001,
+        "uuid": "laurabonmatimendoza",
+        "name": "Laura Bonmatí Mendoza",
+        "avatar": "https://storage.googleapis.com/k-avatars/85274001-5627a742",
+        "description": "@LauraBonmati es una programadora frontend con vocación empresarial, a la que le gusta dar lo mejor de sí en cada ámbito en el que se mueve y ayudar a los demás.\n\nEl trabajo en equipo es lo que más le gusta. Cree que teniendo los objetivos claros de un proyecto y remando todos en una misma dirección, se puede conseguir lo que se proponga. \n\nHagamos un mundo mejor y más humano.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Female"
+    },
+    {
+        "id": 111264001,
+        "uuid": "kungfunk",
+        "name": "Victor Calzón",
+        "avatar": "https://storage.googleapis.com/k-avatars/111264001-3a19bcaa",
+        "description": "Senior Frontend developer en Cognizant, pero también le da al Backend (cuando le dejan). Sueña con programación funcional y streams de datos mientras itera sobre si mismo. En sus ratos libres boxea y toca la guitarra porque cree que se puede ser un señor y un truhán.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "kungfunk",
+        "gender": "Male"
+    },
+    {
+        "id": 106854002,
+        "uuid": "albpara",
+        "name": "Alberto Para",
+        "avatar": "https://storage.googleapis.com/k-avatars/106854002-b16c8dc6",
+        "description": "Frontend developer en Cognizant (y ninja de CSS) apasionado de la tecnología y del desarrollo web desde los tiempos en los que marquee y netscape lo petaban en internet, hace mucho tiempo en una empresa muy lejana trabajó en areas de redes, seguridad e infraestructura, temas en lo que aún hoy en día le gusta mantenerse al menos informado. Gamer de la época de las arcades, en las que se les miraba mal como si tuvieran un problema… hoy en día los juegos retro le siguen dando muy buenos momentos.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 28024001,
+        "uuid": "etomas",
+        "name": "Eduard Tomàs",
+        "avatar": "https://storage.googleapis.com/k-avatars/28024001-3ca80fb5",
+        "description": "Más de 15 años picando teclas con más ganas de nunca. Apasionado de la cerveza y del desarrollo y un políglota convencido: siempre a la caza de nuevos lenguajes, tecnologías, ideas y arquitecturas que aprender. Desarrollador en Plain Concepts y MVP por parte de Microsoft.",
+        "feedback": {
+            "ratingAverage": 4.58,
+            "entriesCount": 33
+        },
+        "twitterAccount": "eiximenis",
+        "gender": "Male"
+    },
+    {
+        "id": 109554001,
+        "uuid": "davilagrau",
+        "name": "Andrés Leonardo Martínez Ortiz",
+        "avatar": "https://storage.googleapis.com/k-avatars/109554001-ff59665f",
+        "description": "Andrés L. Martinez Ortiz a.k.a almo es Developer Program Lead en Google, promoviendo iniciativas para desarrolladores en España, Europa y Latinoamérica. En contacto con emprendedores y startups, trabaja activamente facilitando procesos de innovación y nuevos modelos de negocio. Imparte workshops y conferencias sobre temas diversos como desarrollo mobile, tecnologías cloud, estrategias de innovación y open source. Es miembro de IEEE, Linux Foundation, ACM y la Computer Society.\n",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "davilagrau",
+        "gender": "Male"
+    },
+    {
+        "id": 661062,
+        "uuid": "lauramorillovelarde",
+        "name": "Laura Morillo-Velarde Rodríguez",
+        "avatar": "https://storage.googleapis.com/k-avatars/661062-9c37df78",
+        "description": "Laura Morillo-Velarde is a software developer at Seedtag. She has always been involved in community groups: AgileSpain, Software Craftsmanship, Madrid.rb, GDG… but always missing more women representation. In 2010 she created the group Agile Girls and in 2015 she also joined Tech and Ladies. The goal is the same, to probe that women doesn’t have to be ‘unicorns’ in the development world.",
+        "feedback": {
+            "ratingAverage": 3.98,
+            "entriesCount": 133
+        },
+        "gender": "Female"
+    },
+    {
+        "id": 112324001,
+        "uuid": "marta1",
+        "name": "Marta Garrido",
+        "avatar": "https://storage.googleapis.com/k-avatars/112324001-f939ffae",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Female"
+    },
+    {
+        "id": 107654001,
+        "uuid": "jacobogarcia1",
+        "name": "Jacobo García",
+        "avatar": "https://storage.googleapis.com/k-avatars/107654001-225cb44d",
+        "description": "http://twitter.com/ops_robot",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 26074001,
+        "uuid": "ilopmar",
+        "name": "Iván López",
+        "avatar": "https://storage.googleapis.com/k-avatars/26074001-5b71efe6",
+        "description": "Iván es desarrollador y sysadmin con 14 años de experiencia que trabaja en el equipo de Grails en OCI. Descubrió Grails hace 7 años y desde entonces desarrolla casi exclusivamente utilizando Groovy. Es el creador de algunos plugins de Grails como Postgresql-Extensions y Slug-Generator.\n\nTambién es el coordinador del Grupo de Usuarios de Groovy de Madrid (@MadridGUG), el organizador de la conferencia Greach y un speaker frecuente en conferencias como SpringOne 2GX, GGX, GR8Conf, Greach, Codemotion, GeeCon, JavaCro, Spring IO, ConFoo, RigaDevDays...",
+        "feedback": {
+            "ratingAverage": 4.8,
+            "entriesCount": 91
+        },
+        "twitterAccount": "ilopmar",
+        "gender": "Male"
+    },
+    {
+        "id": 5741256864956416,
+        "uuid": "rafbermudez",
+        "name": "Rafael Bermúdez Míguez",
+        "avatar": "https://storage.googleapis.com/k-avatars/5741256864956416-528a24a7",
+        "description": "Gallego y caótico soñador. \n\nHe tenido la suerte de poder desarrollarme y conocer múltiples ámbitos: Becario en la Universidad, programador en consultoría, Director de desarrollo en Yump, I+D+i en Otogami, Arquitecto de Softare en ETS, CPO en HomeSelect. Y actualmente, CTO en Grupo Aluman.\n\nVivo pegado al código y resuelvo problemas extremos en InfiniteMonkeys.",
+        "feedback": {
+            "ratingAverage": 3.89,
+            "entriesCount": 99
+        },
+        "twitterAccount": "rafbermudez",
+        "gender": "Male"
+    },
+    {
+        "id": 71644001,
+        "uuid": "flopezluis",
+        "name": "Félix López",
+        "avatar": "https://storage.googleapis.com/k-avatars/71644001-5b7433f9",
+        "description": "Félix López ha dirigido ingeniería en varias startups, la última  @ShuttleCloud, una startup cuya tecnología es usada por instituciones como Stanford y Harvard, y compañías como Google, Comcast, Yahoo!, TimeWarner. Félix lleva 15 años desarrollando software en los que ha pasado por desarrollo web, programación de videojuegos, aplicaciones para cambio de moneda y sistemas distribuidos. Pasa los días leyendo sobre sistemas distribuidos y como pasar entrevistas técnicas para cuando llegue el momento :D\n",
+        "feedback": {
+            "ratingAverage": 4.8,
+            "entriesCount": 20
+        },
+        "twitterAccount": "flopezluis",
+        "gender": "Male"
+    },
+    {
+        "id": 104394002,
+        "uuid": "albertvilva1",
+        "name": "Alberto V.",
+        "avatar": "https://storage.googleapis.com/k-avatars/104394002-3760d28c",
+        "description": "Diseñador transformado en desarrollador web. Amante del arte digital y las experiencias interactivas. Obsesionado con las consecuencias e implicaciones del desarrollo tecnológico. Eternamente paranoico con la privacidad. Replicante. Currently living in a deep relationship with Javascript ❤️  | http://albertovilva.com | Director de producto en Influencity.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 101154001,
+        "uuid": "sergiozamarro",
+        "name": "Sergio Zamarrowski",
+        "avatar": "https://storage.googleapis.com/k-avatars/101154001-816a6b87",
+        "description": "Programo 24/7. He tenido la suerte de desarrollarme profesionalmente en múltiples ámbitos pero (casi) siempre usando Javascript tanto en en lado del servidor como del cliente. Soy experto en desarrollar proyectos personales sin ningún futuro pero de los cuales he aprendido muchísimo. ",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 5075364598513664,
+        "uuid": "jmunozkr",
+        "name": "Jose María Muñoz",
+        "avatar": "https://storage.googleapis.com/k-avatars/5075364598513664-1d20f167",
+        "description": "Ingeniero Informático en Ingeniería del Software por la Universidad de Extremadura. Trabajo en Trecone Solutions en productos relacionados con el procesamiento y gestión de datos y ayudando a clientes a extraer información de estos. También participo en la comunidad como organizador del GDG Cáceres y desde el SmartOpenLab, micro-fablab de la Escuela Politécnica de Cáceres.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 5633073550983168,
+        "uuid": "pabloriveraconde",
+        "name": "Pablo Rivera Conde",
+        "avatar": "https://storage.googleapis.com/k-avatars/5633073550983168-f03dd1be",
+        "description": "Pablo Rivera Conde es technical lead de Sweetspot Intelligence con varios años de experiencia en el desarrollo de aplicaciones web, especialmente en la capa de front end, luchando por conseguir implementaciones de los diseños perfectos y una UX a la altura.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 75194001,
+        "uuid": "javierlafora",
+        "name": "Javier Lafora Rey",
+        "avatar": "https://storage.googleapis.com/k-avatars/75194001-6512ee47",
+        "description": "Twitter: @elafo",
+        "feedback": {
+            "ratingAverage": 3.97,
+            "entriesCount": 29
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 36594001,
+        "uuid": "sebascastillo89",
+        "name": "Sebastián Castillo Rodríguez",
+        "avatar": "https://storage.googleapis.com/k-avatars/36594001-24414582",
+        "description": "Ingeniero en Informática por la Universidad de Sevilla y afincado en Madrid desde hace un tiempo, he trabajado los últimos 10 años en diferentes consultoras, participando principalmente en proyectos para administraciones públicas y entidades bancarias.  \n \nApasionado de las nuevas tecnologías y arduo defensor del código limpio y de calidad, he dedicado mucho tiempo a refactorizar y mejorar el legacy code. En la actualidad, impulso la iniciativa de Transformación Digital y Soluciones Técnicas en Softtek, donde promovemos charlas técnicas, blogs y un laboratorio donde jugueteamos con nuevas tecnologías, hacemos pequeñas pruebas de concepto y, de vez en cuando, lanzamos algún pet project.  **I keep on learning! **\n\n@sebascastillo89\n",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 111224001,
+        "uuid": "rociogomezsanchez09",
+        "name": "Rocío Gómez Sánchez",
+        "avatar": "https://storage.googleapis.com/k-avatars/111224001-5b938aa6",
+        "description": "Rocío Gómez, desarrolladora front-end y fotógrafa, empezó en el mundo de la programación a través del curso de Adalab. En el que ha aprendido a manejar HTML,CSS Y JAVASCRIPT. Está en continuo aprendizaje ya que le parece un mundo muy interesante y tiene muchas ganas de saber más y poder dedicarse profesionalmente a la programación.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Female"
+    },
+    {
+        "id": 67814003,
+        "uuid": "joanleon",
+        "name": "Joan Leon",
+        "avatar": "https://storage.googleapis.com/k-avatars/67814003-6ac6b185",
+        "description": "Developer Advocate & Training Manager en Schibsted Spain, pero  sigo siendo un CSS & Animation Lover, me apasiona todo lo relacionado con el desarrollo e interacción en la interfaz de usuario en entornos web. Trato de estar al día en todo lo relacionado con HTML5, CSS, SVG y Javascript. Otra de mis pasiones es la de colaborar en proyectos Open Source.\n\nMe encanta compartir conocimiento, ya sea en MeetUps, Conferencias, Workshops o como docente en Escuela IT... siempre activo en @nucliweb compartiendo todos los recursos y novedades del mundo frontend.",
+        "feedback": {
+            "ratingAverage": 4.08,
+            "entriesCount": 12
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 106864003,
+        "uuid": "ponceballesteros",
+        "name": "Lucas Ponce",
+        "avatar": "https://storage.googleapis.com/k-avatars/106864003-dcf9ffac",
+        "description": "Lucas Ponce is Software Engineer at Red Hat where he has worked in several middleware projects. Previously he helped customers to design distributed architectures for high demanding scenarios. He started his career in the nineties developing Geographic Information Systems.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "rutlucas",
+        "gender": "Male"
+    },
+    {
+        "id": 5747049433661440,
+        "uuid": "luisgvalle",
+        "name": "Luis G. Valle",
+        "avatar": "https://storage.googleapis.com/k-avatars/5747049433661440-f2d7bc2e",
+        "description": "Software Engineer @ Novoda\n\nI am a firm believer in simple, well-made things. Which I like to apply to code, interfaces and processes.\n\nI've been recently focused on advocating for better team communication. I believe this is key to produce quality software in any company.\n\nI am passionate about reading, talking and writing about software. Sharing experiences is the most rewarding way to improve the community.\n\nTwitter: @lgvalle",
+        "feedback": {
+            "ratingAverage": 4.81,
+            "entriesCount": 74
+        },
+        "twitterAccount": "lgvalle",
+        "gender": "Male"
+    },
+    {
+        "id": 110714002,
+        "uuid": "ekapic1",
+        "name": "Edin Kapić",
+        "avatar": "https://storage.googleapis.com/k-avatars/110714002-72a33781",
+        "description": "Edin Kapic (@ekapic) es un artesano de SharePoint que trabaja en Sogeti en la maravillosa ciudad de Barcelona. Es SharePoint MVP desde 2013. Es cofundador y presidente del grupo de usuarios de SharePoint de Catalunya (SUG.CAT). Escribe y habla sobre SharePoint en varios eventos y publicaciones. Es su escaso tiempo libre le gusta navegar a vela. \n\nEdin es un developer hardcore pero también le gusta hacer puentes entre el negocio y la tecnología. Una de sus iniciativas es formar a las personas técnicas en habilidades \"soft\" que son muy importantes pero que suelen aparecer en las charlas. ",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 74304005,
+        "uuid": "txemavk",
+        "name": "José María Rodríguez Hurtado",
+        "avatar": "https://storage.googleapis.com/k-avatars/74304005-1e459c77",
+        "description": "Trabaja como Android Team Lead en Jobandtalent. También es editor del blog de Genbeta Dev. Lleva trabajando con APIs y móviles desde hace tiempo cuando estaba en idealista y ahora en Jobandtalent. Puedes encontrarle en twitter hablando de tecnología bajo su pseudonimo durbon",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "durbon",
+        "gender": "Male"
+    },
+    {
+        "id": 106614002,
+        "uuid": "nleite",
+        "name": "Norberto Leite",
+        "avatar": "https://storage.googleapis.com/k-avatars/106614002-a90a2612",
+        "description": "Norberto Leite is curriculum lead at MongoDB. For the past four years, Norberto has worked on scalable distributed application environments as advisor, engineer, and instructor. Prior to MongoDB Norberto served as Big Data Engineer at Telefonica. \n@nleite",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "nleite",
+        "gender": "Male"
+    },
+    {
+        "id": 6325027678978048,
+        "uuid": "elenatorro",
+        "name": "Elena Torro",
+        "avatar": "https://storage.googleapis.com/k-avatars/6325027678978048-2047c051",
+        "description": "Programadora. En mi tiempo libre intento sin éxito mantener un blog personal y arreglar el cuello de botella de mi lista de TODO's, entre otros. Me interesa principalmente la educación a través de la tecnología. Actualmente trabajo como desarrolladora FrontEnd en myABCKit.",
+        "feedback": {
+            "ratingAverage": 4.08,
+            "entriesCount": 50
+        },
+        "twitterAccount": "Eletorro",
+        "gender": "Female"
+    },
+    {
+        "id": 40084001,
+        "uuid": "javiervelezreyes1",
+        "name": "Javier Vélez",
+        "avatar": "https://storage.googleapis.com/k-avatars/40084001-5d4a9502",
+        "description": "Licenciado por la UPM desde el año 2001 y doctor en informática por la UNED desde el año 2009, Javier conjuga sus labores como profesor e investigador con la consultoría y la formación técnica para empresa. Su línea de trabajo actual se centra en la innovación y desarrollo de tecnologías para la Web. Además realiza actividades de evangelización y divulgación en diversas comunidades IT y es coordinador de varios grupos de ámbito local como NodeJS Madrid o Madrid JS. Forma parte del programa Polymer Polytechnic Speaker y es mentor del capítulo de Madrid de Node School.",
+        "feedback": {
+            "ratingAverage": 3.51,
+            "entriesCount": 35
+        },
+        "twitterAccount": "javiervelezreye",
+        "gender": "Male"
+    },
+    {
+        "id": 102514001,
+        "uuid": "raul4",
+        "name": "Raul Murciano",
+        "avatar": "https://storage.googleapis.com/k-avatars/102514001-1519043b",
+        "description": "Raul is a Lead Engineer/Engineering Manager at Heroku",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 106724002,
+        "uuid": "javiercm",
+        "name": "Javier Cañadillas",
+        "avatar": "https://storage.googleapis.com/k-avatars/106724002-ecf92ef6",
+        "description": "Javier is Master degree in Industrial Physics and in Computer Science & Engineering, and has been around for almost 20 years working with Enterprise software & systems. He has spent most of his professional time working with different technical roles in vendors like Netscape, Sun Microsystems, HP and Oracle. Javier is now a Customer Engineer in Google Cloud, where he focuses on helping companies and organizations to solve problems using Google Cloud technology.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 107664002,
+        "uuid": "sebas00",
+        "name": "Sebastian Hermida",
+        "avatar": "https://storage.googleapis.com/k-avatars/107664002-9b4f1af4",
+        "description": "@sbastn",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 98524001,
+        "uuid": "eduardosada1",
+        "name": "Eduardo Sada",
+        "avatar": "https://storage.googleapis.com/k-avatars/98524001-30368953",
+        "description": "Eduardo es evangelista de Polymer, con más de 12 años de experiencia en desarrollo Front-end; hoy se dedica, según su madre, a «hacer caritas y botoncitos» de manera profesional. Suele dar charlas en eventos de programación para no pagar la entrada.",
+        "feedback": {
+            "ratingAverage": 4.71,
+            "entriesCount": 51
+        },
+        "twitterAccount": "aeroalquimia",
+        "gender": "Male"
+    },
+    {
+        "id": 108624002,
+        "uuid": "vadim1",
+        "name": "Vadim Markovtsev",
+        "avatar": "https://storage.googleapis.com/k-avatars/108624002-70960edd",
+        "description": "Currently Vadim is a Lead Machine Learning Engineer at source{d} where he works on deep neural networks and other machine learning technologies that aim to achieve a coding artificial intelligence. Vadim is one of the creators of the distributed deep learning platform Veles (https://velesnet.ml) while working at Samsung. Afterwards Vadim was responsible for the machine learning efforts to fight email spam at Mail.Ru. In the past Vadim was also a visiting associate professor at Moscow Institute of Physics and Technology, teaching about new technologies and conducting ACM-like internal coding competitions. Vadim is also a big fan of GitHub (vmarkovtsev) and HackerRank (markhor), as well as likes to write technical articles on blog.sourced.tech and reads Twitter (@tmarkhor).",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 78154003,
+        "uuid": "micaelgallego",
+        "name": "Micael Gallego",
+        "avatar": "https://storage.googleapis.com/k-avatars/78154003-40785a89",
+        "description": "Micael Gallego es Doctor en Informática y profesor de Cloud computing, Desarrollo Web y Programación Concurrente en la Universidad Rey Juan Carlos. Imparte formación sobre XP y Cloud en empresas y se mancha las manos como desarrollador Java/JavaScript en kurento.org y elastest.io. Ha contado sus experiencias en Codemotion, T3chFest, MadridJUG, MadridAgil y SaveInformaticOS. Le gusta apasionar a los demás con su pasión, el desarrollo software.\n\nTwitter: @micael_gallego",
+        "feedback": {
+            "ratingAverage": 4.85,
+            "entriesCount": 27
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 34344001,
+        "uuid": "javiersuarezruiz",
+        "name": "Javier Suárez Ruiz",
+        "avatar": "https://storage.googleapis.com/k-avatars/34344001-3ca80fb5",
+        "description": "Desarrollador móvil, Microsoft MVP, Xamarin MVP y gran apasionado de la comunidad donde participo de forma activa escribiendo mi blog, colaborando en eventos en línea o presenciales y participando en talleres u otras actividades. También soy coordinador de CartujaDotNet, grupo de usuarios .NET de Sevilla y coordinador en SVQXDG, grupo de desarrolladores Xamarin de Sevilla.",
+        "feedback": {
+            "ratingAverage": 4.53,
+            "entriesCount": 17
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 33724002,
+        "uuid": "katiaaresti",
+        "name": "Katia Aresti",
+        "avatar": "https://storage.googleapis.com/k-avatars/33724002-0ba7833b",
+        "description": "Red Hat, Duchess France, Infinispan/JBoss DataGrid core developer",
+        "feedback": {
+            "ratingAverage": 4.88,
+            "entriesCount": 58
+        },
+        "gender": "Female"
+    },
+    {
+        "id": 40114001,
+        "uuid": "galder",
+        "name": "Galder Zamarreño",
+        "avatar": "https://storage.googleapis.com/k-avatars/40114001-172645e4",
+        "description": "Red Hat, Infinispan/JBoss DataGrid Co-creator and  core developer ",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 109554004,
+        "uuid": "tsegismont",
+        "name": "Thomas Segismont",
+        "avatar": "https://storage.googleapis.com/k-avatars/109554004-0fb19c8f",
+        "description": "Red Hat, Vert-x Core developer ",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "tsegismont",
+        "gender": "Male"
+    },
+    {
+        "id": 86012,
+        "uuid": "asanzdiego",
+        "name": "Adolfo Sanz De Diego",
+        "avatar": "https://storage.googleapis.com/k-avatars/86012-4ee00c88",
+        "description": "Empecé desarrollando aplicaciones web, hasta que di el salto a la docencia. Un día me dio por crear [HackathonLovers](http://hackathonlovers.com), un grupo de diseñadores, desarrolladores y emprendedores amantes de los hackathones. Actualmente soy asesor técnico docente en el servicio TIC de la Dirección General de Infraestructuras y Servicios de la Consejería de Educación, Juventud y Deporte de la Comunidad de Madrid y profesor en [CIFF](http://www.ciff.net/). Además colaboro puntualmente como formador especializado en tecnologías de desarrollo en [Pronoide](http://www.pronoide.com).\n\n[Blog](http://asanzdiego.blogspot.com.es/) | [GitHub](http://github.com/asanzdiego) | [LinkedIn](http://www.linkedin.com/in/asanzdiego) | [SlideShare](http://www.slideshare.net/asanzdiego/) | [Twitter](http://twitter.com/asanzdiego)",
+        "feedback": {
+            "ratingAverage": 3.73,
+            "entriesCount": 41
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 31404001,
+        "uuid": "juanmanuelserranohidalgo",
+        "name": "Juan Manuel Serrano Hidalgo",
+        "avatar": "https://storage.googleapis.com/k-avatars/31404001-caa3596b",
+        "description": "Juan Manuel is a computer scientist and a passionate programmer. Several years ago, he stumbled upon purely functional programming and fell literally in love with it. He is also crazy about bringing to industry novel techniques and DSLs for programming social and reactive software. He manages the Madrid Scala Meetup Group and Habla Computing, the startup to make all his dreams come true.",
+        "feedback": {
+            "ratingAverage": 4.83,
+            "entriesCount": 60
+        },
+        "gender": "Male"
+    },
+    {
+        "id": 35354001,
+        "uuid": "dafergon",
+        "name": "David Fernández González",
+        "avatar": "https://storage.googleapis.com/k-avatars/35354001-5770ef89",
+        "description": "Tras David Fernández González ([LinkedIn](https://es.linkedin.com/in/davidfergon), [Twitter](https://twitter.com/dafergon)) hay un profesional con más de 11 años de experiencia en el mundo del desarrollo de software, que actualmente trabaja como Agile Coach en Kairós en proyectos de adopción Agile.\n\nHa trabajado anteriormente como Agile Coach y Scrum Master en distintas pymes, implantando la metodología y transmitiendo los valores ágiles.\n\nEste Ingeniero Informático asturiano, gijonés más concretamente, ha colaborado en proyectos para empresas de múltiples y variados sectores como ArcelorMittal, CAPSA (Central Lechera Asturiana), Endesa, Telefónica, Banco Santander, BBVA o Repsol.\n\nTambién ha trabajado desarrollando facetas más técnicas como Ingeniero de Software o Responsable de Continuous Delivery.\n\nTal vez ya le hayas visto como ponente en otros eventos como: Peopleware Agile Management (PAM 2015), Codemotion (2015 y 2016) o Conferencia Agile Spain (CAS 2015 y 2016).",
+        "feedback": {
+            "ratingAverage": 4.65,
+            "entriesCount": 123
+        },
+        "twitterAccount": "dafergon",
+        "gender": "Male"
+    },
+    {
+        "id": 89024002,
+        "uuid": "martasanmartin",
+        "name": "Marta San Martín",
+        "avatar": "https://storage.googleapis.com/k-avatars/89024002-796847f4",
+        "description": "Marta San Martín, vitoriana de origen, lleva a sus espaldas 15 años de experiencia como Team Coach y considerable veteranía implantando Agile en corporaciones como BBVA o Liberbank. \n\nNo sólo en desarrollo SW, sino también en áreas como RRHH, Arquitectura o Marketing. \n\nDurante algunos años, fue Agile Driver y Head Coach del centro de I+D de Ericsson en Madrid, en su camino hacia Agile y Lean. Como tal estuvo liderando iniciativas, impartiendo cursos, coaching y talleres con éxito a los equipos de gestión y líderes de la organización y coordinando iniciativas globales Agile de la compañía a nivel internacional, entre otras responsabilidades.\n\nInquieta y en continua formación y evolución, diversas cualificaciones y certificaciones la avalan, entre ellas:\n- Associated Certified Coach por la ICF (International Coaching Federation)\n- ORSC coach (Organizational and Relation System Coach)\n- Certificada como SAFe Program Consultant \n- Instructora de Mindfulnes",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Female"
+    },
+    {
+        "id": 111284001,
+        "uuid": "ccanizaresestevez",
+        "name": "Carlos Cañizares Estévez",
+        "avatar": "https://storage.googleapis.com/k-avatars/111284001-68b9b76f",
+        "description": "Software passionate focused on Microsoft technologies, javascript and cloud development.",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "twitterAccount": "canizarescarlos",
+        "gender": "Male"
+    },
+    {
+        "id": 37334001,
+        "uuid": "gciotta",
+        "name": "Giuseppe Ciotta",
+        "avatar": "https://storage.googleapis.com/k-avatars/37334001-e80beb7d",
+        "description": "Giuseppe Ciotta is a technical manager and senior developer. He's CTO @ Ticketea, where he helps solve challenging scalability issues in cloud-native environments.",
+        "feedback": {
+            "ratingAverage": 4.59,
+            "entriesCount": 22
+        },
+        "twitterAccount": "gciotta",
+        "gender": "Male"
+    },
+    {
+        "id": 110784001,
+        "uuid": "adriangespinosa",
+        "name": "Adrián García Espinosa",
+        "avatar": "https://storage.googleapis.com/k-avatars/110784001-f036f769",
+        "description": "Soy desarrollador de software en Mashme.io (https://www.mashme.io/) y antiguo SyncRTC (https://www.syncrtc.com/). Durante 2 años he estado centrado en tecnologías del lado cliente, tanto web como móvil. Sin embargo, este último año estoy participando en el despliegue y diseño de la arquitectura de Mashme.io. Aquí he aprendido como llevar una aplicación a producción y desplegarla en alta disponibilidad a nivel mundial.\nSoy miembro del IEEE desde el año 2014 y pertenezco al programa MSP de Microsoft.\nhttps://github.com/ageapps\nhttps://speakerdeck.com/adrian_gespi",
+        "feedback": {
+            "ratingAverage": 0,
+            "entriesCount": 0
+        },
+        "gender": "Male"
+    }
+]

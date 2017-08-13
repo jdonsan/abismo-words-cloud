@@ -1,0 +1,26 @@
+{
+  "name": "code-word-cloud",
+  "version": "1.0.0",
+  "description": "Comprobar ciertos usos del lenguaje de los ponentes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "codemotion",
+    "charlas",
+    "analisis",
+    "palabras",
+    "node"
+  ],
+  "author": "jdonsan",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "es6-promisify": "^5.0.0",
+    "express": "^4.15.4",
+    "ramda": "^0.24.1",
+    "stopword": "^0.1.6",
+    "urlencode": "^1.1.0"
+  }
+}
