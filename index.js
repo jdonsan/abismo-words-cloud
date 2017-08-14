@@ -13,7 +13,7 @@ server.get('/api/gender/:gender', function (req, res) {
         });
 });
 
-server.listen(3000, function (error) {
+server.listen(3001, function (error) {
     if (error) {
         console.error(error);
         return;
