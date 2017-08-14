@@ -4,11 +4,7 @@ const fs = require('fs');
 const path = require('path');
 const sw = require('stopword');
 const swES = require('./sw_es');
-
 const readFile = promisify(fs.readFile);
-const writeFile = promisify(fs.writeFile);
-
-
 
 module.exports.calculate = function (gender) {
     const getAuthors = () => readFile(path.resolve(__dirname, '../data/authors.json'), 'utf-8').then(JSON.parse);
