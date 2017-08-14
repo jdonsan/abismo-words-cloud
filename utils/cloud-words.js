@@ -15,7 +15,6 @@ module.exports.calculate = function (gender) {
     const countWords = R.countBy(R.toLower);
     const convertNodeCloud = R.compose(R.map(R.zipObj(['text', 'weight'])), R.toPairs);
     const sortByWeight = R.sort(R.descend(R.prop('weight')));
-    const createNodeCloud = node => ({ text: node[0], weight: node[1] });
 
     return getAuthors()
         .then(filterAuthors)
